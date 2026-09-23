@@ -1,8 +1,9 @@
-# 美股資料包（貼給 Claude 用）
+# 美股每日 Claude 判斷｜公開報告
 
-需要分析時跟 Cursor Agent 說「跑一遍」，產出後來這裡複製：
+每天點這裡跑分析（私人 repo Action）：
+https://github.com/iamnio0806-commits/us-stock-claude-daily/actions/workflows/daily-analyze.yml
 
-- **貼給 Claude 的全文**：https://raw.githubusercontent.com/iamnio0806-commits/us-stock-daily-reports/main/latest_prompt.md
-- 篩選表：https://raw.githubusercontent.com/iamnio0806-commits/us-stock-daily-reports/main/latest_screener.csv
+- 最新報告：https://raw.githubusercontent.com/iamnio0806-commits/us-stock-daily-reports/main/latest_report.md
+- 最新判斷：https://raw.githubusercontent.com/iamnio0806-commits/us-stock-daily-reports/main/latest_analysis.md
 
 最後更新（UTC）：2026-09-23
