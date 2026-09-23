@@ -1,13 +1,3 @@
-# Claude 分析尚未執行
-
-請在 GitHub repo Settings → Secrets 新增 `ANTHROPIC_API_KEY` 後重新跑 Action。
-
-或把 `CLAUDE_PROMPT.md` 貼給 Claude 手動判斷。
-
----
-
-# 原始資料摘要（給人工／Bot）
-
 # 美股批量資料 — 請協助判斷
 
 資料產生時間（UTC）：2026-09-23T12:12:22Z
@@ -177,6 +167,3 @@ I Assistants to Android, Chrome Choice Screens (MT Newswires)
 
 ## 完整 JSON
 （若你需要原始欄位，請一併參考同目錄的 `claude_pack.json`。）
-
-
-（完整檔見 artifact / 本 repo output）

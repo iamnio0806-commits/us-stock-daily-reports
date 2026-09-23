@@ -1,0 +1,11 @@
+ticker,sector,close,ret_21d,ret_63d,rsi_14,trailingPE,forwardPE,revenueGrowth,recommendation,signals
+META,Communication Services,741.25,35.91,31.57,77.87,27.933065,21.142416,0.28,strong_buy,short_above_mid|rsi_overbought|macd_bullish
+AAPL,Technology,338.98,8.89,14.23,66.3682,38.917526,35.4327,0.164,buy,short_above_mid|macd_bullish
+TSLA,Consumer Cyclical,375.3,8.74,-7.34,58.6171,344.45453,172.4436,0.255,buy,short_above_mid|macd_bullish
+NVDA,Technology,227.38,4.97,9.1,58.39,28.934261,14.593853,1.059,strong_buy,short_above_mid|macd_bearish
+GOOGL,Communication Services,354.97,4.26,1.58,58.8839,17.82538,23.596497,0.242,strong_buy,short_below_mid|macd_bullish
+MSFT,Technology,501.61,4.25,36.81,57.2533,27.930454,21.034065,0.177,strong_buy,short_above_mid|macd_bearish
+JPM,Financial Services,352.04,0.14,6.68,48.1266,15.084294,13.606537,0.304,buy,short_above_mid|macd_bearish
+AMZN,Consumer Cyclical,258.45,-0.64,11.02,52.6868,20.797716,24.544542,0.196,strong_buy,short_above_mid|macd_bearish
+UNH,Healthcare,377.56,-1.29,-6.59,39.3635,24.264803,16.494776,0.004,buy,short_below_mid|macd_bearish
+XOM,Energy,158.3,-4.72,15.06,44.8679,20.373556,14.645683,0.441,buy,short_above_mid|macd_bearish
