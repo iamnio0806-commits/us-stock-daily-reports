@@ -1,51 +1,51 @@
 ticker,sector,close,ret_21d,ret_63d,rsi_14,trailingPE,forwardPE,revenueGrowth,recommendation,signals
-AMD,Technology,614.61,34.56,18.25,71.0044,154.03758,39.472237,0.501,strong_buy,golden_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
-META,Communication Services,744.1,33.21,33.54,77.0128,28.036924,21.35783,0.28,strong_buy,death_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
-QCOM,Technology,197.24,25.1,0.46,66.8474,22.567507,19.329657,-0.04,hold,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
-CRM,Technology,237.58,13.78,55.13,53.2042,22.038961,14.844158,0.108,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-TSLA,Consumer Cyclical,380.12,8.93,1.22,60.5941,348.73392,172.99884,0.255,buy,death_cross_zone|short_above_mid|below_sma200|macd_bullish
-AAPL,Technology,337.02,8.6,15.09,62.9432,38.604813,35.256454,0.164,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
-NVDA,Technology,225.51,8.29,13.45,55.8506,28.509481,14.379603,1.059,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
-TMO,Healthcare,665.3,5.81,41.86,71.5671,35.80732,24.154993,0.105,buy,golden_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
-WMT,Consumer Defensive,110.53,3.79,-6.9,57.7485,39.056538,34.220345,0.059,buy,death_cross_zone|short_below_mid|below_sma200|macd_bullish
-TXN,Technology,272.62,3.12,-9.97,56.032,41.49467,25.610506,0.228,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-MSFT,Technology,500.59,2.73,37.23,56.3023,28.075714,21.14346,0.177,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-BRK-B,Financial Services,507.17,2.29,2.91,49.6112,12.7493725,22.853176,0.1,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-PG,Consumer Defensive,147.39,1.87,-1.57,55.626,22.230768,19.918106,0.015,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-ORCL,Technology,144.56,1.48,-7.91,46.7329,22.622849,13.145175,0.296,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-PM,Consumer Defensive,190.84,1.39,7.68,52.6019,26.178326,20.764288,0.104,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-DHR,Healthcare,221.56,1.24,24.05,66.3116,39.42349,23.828087,0.055,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
-CVX,Energy,205.51,0.12,17.8,49.3986,19.91376,15.144703,0.535,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-JNJ,Healthcare,269.17,0.1,13.14,53.6567,31.262487,22.175814,0.066,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-ABBV,Healthcare,265.08,0.05,13.72,60.348,74.67042,16.304567,0.102,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
-AVGO,Technology,354.99,-0.87,-6.92,44.7243,45.337166,18.313643,0.855,strong_buy,golden_cross_zone|short_below_mid|below_sma200|macd_bullish
-ACN,Technology,183.52,-0.95,46.23,51.0061,14.669865,12.507241,0.056,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-IBM,Technology,232.76,-1.24,-11.52,46.9949,20.653059,17.703436,0.011,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-CAT,Industrials,812.02,-1.92,-17.34,48.8167,35.015957,25.079887,0.24,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-WFC,Financial Services,81.9,-2.31,-2.09,34.0896,12.390318,10.364517,0.095,buy,golden_cross_zone|short_above_mid|below_sma200|macd_bearish
-XOM,Energy,161.23,-2.35,16.13,49.9161,20.72365,14.878227,0.441,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-MRK,Healthcare,148.08,-2.36,24.54,57.9445,118.464005,15.531994,0.051,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-V,Financial Services,361.52,-2.57,10.26,40.4582,30.741495,24.094425,0.144,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-KO,Consumer Defensive,88.09,-2.73,10.34,52.0454,26.453453,24.98029,0.067,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-GOOG,Communication Services,334.98,-2.73,-2.85,44.9977,16.799398,22.483072,0.242,strong_buy,golden_cross_zone|short_below_mid|below_sma200|macd_bullish
-GOOGL,Communication Services,337.83,-2.88,-2.1,45.1144,16.933834,22.674356,0.242,strong_buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-LIN,Basic Materials,469.72,-3.34,-8.0,45.8029,30.34367,24.015936,0.093,buy,golden_cross_zone|short_below_mid|below_sma200|macd_bearish
-CSCO,Technology,106.43,-3.45,-10.78,40.7921,31.960962,18.931389,0.176,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
-MA,Financial Services,559.92,-3.57,14.91,40.8853,30.832598,24.318115,0.141,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-DIS,Communication Services,103.46,-4.01,0.7,45.3822,21.331959,13.83538,0.068,strong_buy,death_cross_zone|short_above_mid|above_sma200|macd_bearish
-UNH,Healthcare,371.29,-4.24,-8.72,35.242,23.87717,16.421358,0.004,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
-COST,Consumer Defensive,904.7,-4.54,-5.38,41.7207,45.50805,39.991955,0.116,buy,death_cross_zone|short_below_mid|below_sma200|macd_bearish
-AMZN,Consumer Cyclical,249.27,-4.88,6.4,44.0742,20.07005,23.994894,0.196,strong_buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
-JPM,Financial Services,337.53,-5.29,1.68,33.4441,14.473843,13.507689,0.304,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
-VZ,Communication Services,46.52,-7.24,3.57,34.6735,12.114584,8.815014,-0.007,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
-GE,Industrials,319.8,-8.2,-10.18,39.6438,37.667843,35.195187,0.211,buy,golden_cross_zone|short_below_mid|below_sma200|macd_bearish
-PEP,Consumer Defensive,130.18,-8.3,-7.38,29.0708,17.039267,14.523798,0.064,hold,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
-LLY,Healthcare,1150.99,-8.32,4.12,46.8959,38.572052,24.209717,0.477,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
-BAC,Financial Services,56.0,-9.7,-2.5,25.1572,12.933025,10.5828705,0.168,strong_buy,golden_cross_zone|short_below_mid|above_sma200|rsi_oversold|macd_bearish
-NFLX,Communication Services,71.36,-10.81,-0.67,37.0825,22.44025,18.713842,0.134,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-HD,Consumer Cyclical,296.72,-10.94,-7.87,27.7211,20.749651,18.5163,0.057,buy,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
-ABT,Healthcare,103.49,-11.27,15.13,41.5475,33.49191,17.062212,0.13,buy,golden_cross_zone|short_above_mid|below_sma200|macd_bearish
-MCD,Consumer Cyclical,238.32,-11.93,-12.37,26.2369,19.344156,17.08844,0.037,buy,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
-ADBE,Technology,240.69,-12.88,22.44,39.1915,13.431362,8.697559,0.129,hold,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-CMCSA,Communication Services,22.55,-16.54,0.96,30.8125,7.2275643,6.28624,-0.012,hold,death_cross_zone|short_above_mid|below_sma200|macd_bearish
-INTU,Technology,286.8,-21.85,11.63,32.9041,17.424059,10.591119,0.137,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+META,Communication Services,777.59,36.51,43.35,80.5548,29.276733,22.262783,0.28,strong_buy,death_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
+AMD,Technology,629.26,31.32,18.16,72.825,160.11705,40.41311,0.501,strong_buy,golden_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
+QCOM,Technology,194.26,21.65,-4.68,63.5306,22.175798,19.037613,-0.04,hold,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
+CRM,Technology,238.22,14.15,56.22,53.6414,21.79506,14.884146,0.108,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+AAPL,Technology,335.92,8.4,22.19,61.3598,38.478813,35.033268,0.164,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
+TMO,Healthcare,678.39,7.98,37.93,74.7638,36.551186,24.63025,0.105,buy,golden_cross_zone|short_above_mid|above_sma200|rsi_overbought|macd_bullish
+TSLA,Consumer Cyclical,377.94,7.91,0.75,59.1384,356.54718,172.0067,0.255,buy,death_cross_zone|short_above_mid|below_sma200|macd_bullish
+NVDA,Technology,224.58,5.53,14.86,54.8445,28.35606,14.320303,1.059,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
+TXN,Technology,270.65,4.52,-10.25,54.024,41.194824,25.42544,0.228,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+DHR,Healthcare,223.77,4.03,18.72,68.1,39.8877,24.064293,0.055,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
+WMT,Consumer Defensive,107.59,2.1,-6.85,48.2892,38.981884,33.315063,0.059,buy,death_cross_zone|short_below_mid|below_sma200|macd_bullish
+CVX,Energy,205.65,1.26,20.99,49.6074,19.927326,15.155021,0.535,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+MSFT,Technology,497.93,1.26,41.39,54.4629,27.70896,21.031107,0.177,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+ABBV,Healthcare,265.12,0.23,13.67,60.4001,75.10481,16.307028,0.102,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bullish
+BRK-B,Financial Services,505.18,0.17,2.1,47.5441,12.705735,22.763506,0.1,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+PM,Consumer Defensive,191.5,0.02,8.0,53.6605,26.268862,20.8361,0.104,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+JNJ,Healthcare,270.68,-0.38,12.87,56.1141,31.437864,22.300215,0.066,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+PG,Consumer Defensive,145.68,-0.63,-3.47,49.4552,22.006042,19.687017,0.015,buy,death_cross_zone|short_below_mid|below_sma200|macd_bullish
+CAT,Industrials,805.25,-0.71,-18.88,46.7247,34.679157,24.87079,0.24,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+XOM,Energy,162.14,-1.16,19.2,51.4064,20.86744,14.962202,0.441,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+GOOG,Communication Services,339.01,-1.2,-0.86,48.3284,17.010035,22.753555,0.242,strong_buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+MRK,Healthcare,147.98,-1.2,23.43,57.6973,120.30894,15.521503,0.051,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+GOOGL,Communication Services,342.36,-1.26,-0.33,48.5936,17.178122,22.9784,0.242,strong_buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+AVGO,Technology,350.36,-1.61,-7.37,42.3421,44.74585,18.074785,0.855,strong_buy,golden_cross_zone|short_below_mid|below_sma200|macd_bullish
+IBM,Technology,227.06,-1.72,-13.03,42.5664,20.147293,17.269901,0.011,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+WFC,Financial Services,82.18,-3.0,-1.96,35.217,11.944767,10.399952,0.095,buy,golden_cross_zone|short_above_mid|below_sma200|macd_bearish
+ORCL,Technology,139.54,-3.61,-8.16,42.5237,21.871471,12.688695,0.296,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+KO,Consumer Defensive,88.1,-3.66,9.96,52.1002,26.456457,24.983126,0.067,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+CSCO,Technology,106.97,-3.73,-9.75,42.2242,32.123123,19.027443,0.176,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
+V,Financial Services,367.98,-3.77,10.97,48.1927,31.317448,24.52497,0.144,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+LIN,Basic Materials,468.14,-4.15,-8.93,44.468,30.202581,23.935154,0.093,buy,golden_cross_zone|short_below_mid|below_sma200|macd_bullish
+AMZN,Consumer Cyclical,249.38,-4.47,9.85,44.1952,20.046625,24.005484,0.196,strong_buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
+DIS,Communication Services,105.56,-4.57,5.19,50.9303,21.764948,14.114129,0.068,strong_buy,death_cross_zone|short_above_mid|above_sma200|macd_bearish
+ACN,Technology,177.41,-4.89,39.02,45.7992,14.170128,12.090833,0.056,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+JPM,Financial Services,338.56,-5.08,1.48,35.0538,14.51801,13.548909,0.304,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
+LLY,Healthcare,1181.89,-5.22,5.94,55.4782,39.647434,24.963701,0.477,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bullish
+UNH,Healthcare,375.01,-5.38,-7.02,39.2993,24.1009,16.585886,0.004,buy,golden_cross_zone|short_below_mid|above_sma200|macd_bearish
+MA,Financial Services,566.08,-5.63,14.69,46.4343,31.103296,24.585653,0.141,strong_buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+VZ,Communication Services,47.32,-5.83,4.46,41.1006,12.322917,8.966604,-0.007,buy,golden_cross_zone|short_above_mid|above_sma200|macd_bearish
+GE,Industrials,319.78,-6.45,-12.49,39.6302,37.754425,35.192986,0.211,buy,golden_cross_zone|short_below_mid|below_sma200|macd_bullish
+COST,Consumer Defensive,896.48,-7.71,-6.57,38.4035,45.049248,39.628593,0.116,buy,death_cross_zone|short_below_mid|below_sma200|macd_bearish
+BAC,Financial Services,56.03,-9.79,-3.22,25.4254,12.939954,10.588539,0.168,strong_buy,golden_cross_zone|short_below_mid|above_sma200|rsi_oversold|macd_bearish
+PEP,Consumer Defensive,128.15,-10.47,-8.96,25.3601,16.795544,14.301034,0.064,hold,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
+MCD,Consumer Cyclical,237.02,-10.96,-9.77,25.3499,19.238638,17.093327,0.037,buy,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
+ADBE,Technology,238.93,-12.77,23.54,38.3333,13.340591,8.63396,0.129,hold,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+HD,Consumer Cyclical,292.18,-12.77,-14.15,25.05,20.432167,18.232988,0.057,buy,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
+NFLX,Communication Services,71.72,-12.78,1.16,38.2237,22.55346,18.808252,0.134,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
+ABT,Healthcare,101.07,-13.37,12.49,35.2536,32.70874,16.66323,0.13,buy,golden_cross_zone|short_below_mid|below_sma200|macd_bearish
+CMCSA,Communication Services,22.13,-18.34,-1.14,28.5951,7.092949,6.1774573,-0.012,hold,death_cross_zone|short_below_mid|below_sma200|rsi_oversold|macd_bearish
+INTU,Technology,277.13,-25.08,6.15,30.2448,16.836575,10.235483,0.137,buy,death_cross_zone|short_above_mid|below_sma200|macd_bearish
