@@ -1,6 +1,6 @@
 # 美股批量資料 — 請協助判斷
 
-資料產生時間（UTC）：2026-09-24T21:35:28Z
+資料產生時間（UTC）：2026-09-25T21:37:16Z
 標的數：50（成功價量 50／基本面 50）
 
 ## 你的任務
@@ -16,565 +16,565 @@
 
 ### AAPL
 - 名稱／產業：Apple Inc. | Technology / Consumer Electronics
-- 收盤：335.92（2026-09-24）｜報酬% 1d=-0.33 5d=-0.32 21d=8.4 63d=22.19
-- 技術：RSI=61.3598 SMA20/50/200=328.0715/321.5809/287.0682 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
-- 相對 52W：高 -2.73% / 低 38.38%｜量能比=0.57
-- 估值：PE=38.478813 FPE=35.033268 PEG=2.71 PB=45.641304 市值=4902477103104.0
+- 收盤：341.07（2026-09-25）｜報酬% 1d=1.53 5d=1.47 21d=8.81 63d=20.29
+- 技術：RSI=65.7091 SMA20/50/200=329.396/321.7428/287.3879 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -1.24% / 低 40.5%｜量能比=0.69
+- 估值：PE=39.068733 FPE=35.582424 PEG=2.7 PB=46.341034 市值=4977636933632.0
 - 成長／獲利：營收成長=0.164 EPS成長=0.287 毛利=0.48653 ROE=1.4875101
 - 分析師：評等=buy 目標均價=328.22205 意見數=39.0
 - 近期新聞：
-  - [2026-09-24] The era of AI wearables focused on listening is here (Yahoo Finance Video)
-  - [2026-09-24] 'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup (Yahoo Finance Video)
-  - [2026-09-24] Here's what Wall Street thinks of Meta's new smartglass lineup and first Muse 'holdable' (Yahoo Finance)
-  - [2026-09-24] Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal. (Investor's Business Daily)
-  - [2026-09-24] Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway. (Barrons.com)
+  - [2026-09-25] Trump says China's Xi 'seemed to like' renaming AI as super intelligence (Yahoo Finance)
+  - [2026-09-25] These are stocks getting lifted up by Meta's Muse (Yahoo Finance Video)
+  - [2026-09-25] Evercore ISI’s Bullish iPhone Survey Faces a Reality Check From Pre-Order Data (Insider Monkey)
+  - [2026-09-25] Weekly Wrap: The Crypto Rally Continues (CryptoProwl)
+  - [2026-09-25] Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street. (Investor's Business Daily)
 
 ### MSFT
 - 名稱／產業：Microsoft Corporation | Technology / Software - Infrastructure
-- 收盤：497.93（2026-09-24）｜報酬% 1d=-0.53 5d=0.04 21d=1.26 63d=41.39
-- 技術：RSI=54.4629 SMA20/50/200=499.485/473.0876/430.4686 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -9.34% / 低 42.86%｜量能比=0.78
-- 估值：PE=27.70896 FPE=21.031107 PEG=1.63 PB=8.359439 市值=3697401921536.0
+- 收盤：516.17（2026-09-25）｜報酬% 1d=3.66 5d=4.53 21d=3.99 63d=38.66
+- 技術：RSI=63.3137 SMA20/50/200=500.0405/475.4041/430.6098 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -6.01% / 低 48.09%｜量能比=1.74
+- 估值：PE=28.723984 FPE=21.801512 PEG=1.62 PB=8.665659 市值=3832843862016.0
 - 成長／獲利：營收成長=0.177 EPS成長=0.317 毛利=0.67944 ROE=0.34039003
 - 分析師：評等=strong_buy 目標均價=577.26135 意見數=52.0
 - 近期新聞：
-  - [2026-09-24] Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck (Yahoo Finance)
-  - [2026-09-24] Can Microsoft (MSFT) Sustain its Recurring Cash Flows, Growing Payouts, and Azure Momentum? (Insider Monkey)
-  - [2026-09-24] S&P 500 ends marginally lower as investors focus on US-Iran war (Reuters)
-  - [2026-09-24] Franklin Templeton CEO drops 7-word verdict for AI stock investors (TheStreet)
-  - [2026-09-24] Is IBM Stock's Upside Built On Growth It Is Not Guiding To? (Trefis)
+  - [2026-09-25] What's different about Microsoft's Copilot AI reboot (Yahoo Finance Video)
+  - [2026-09-25] CEO Satya Nadella on Microsoft's AI bet (Yahoo Finance Video)
+  - [2026-09-25] Qualcomm's CMO reveals the secret behind Snapdragon's rise (Yahoo Finance Video)
+  - [2026-09-25] Satya Nadella sees that China and the US both want AI to help their citizens (Yahoo Finance Video)
+  - [2026-09-25] Goldman Sachs just gave AI stock fans a cold, hard reality check (Yahoo Finance)
 
 ### NVDA
 - 名稱／產業：NVIDIA Corporation | Technology / Semiconductors
-- 收盤：224.58（2026-09-24）｜報酬% 1d=-0.41 5d=2.39 21d=5.53 63d=14.86
-- 技術：RSI=54.8445 SMA20/50/200=221.7873/215.4367/198.9275 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
-- 相對 52W：高 -4.84% / 低 37.03%｜量能比=0.6
-- 估值：PE=28.35606 FPE=14.320303 PEG=0.49 PB=23.682379 市值=5422933082112.0
+- 收盤：225.07（2026-09-25）｜報酬% 1d=0.22 5d=1.26 21d=7.47 63d=17.03
+- 技術：RSI=55.3014 SMA20/50/200=221.6546/215.7948/199.1272 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -4.63% / 低 37.33%｜量能比=0.76
+- 估值：PE=28.453857 FPE=14.351548 PEG=0.48 PB=23.73405 市值=5434765213696.0
 - 成長／獲利：營收成長=1.059 EPS成長=1.278 毛利=0.74674004 ROE=1.17211
 - 分析師：評等=strong_buy 目標均價=327.7 意見數=59.0
 - 近期新聞：
-  - [2026-09-24] Nvidia's valuation is falling, but it might not be a warning sign (Yahoo Finance Video)
-  - [2026-09-24] Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck (Yahoo Finance)
-  - [2026-09-24] Why Everpure Stock Popped Today (Motley Fool)
-  - [2026-09-24] 3 Reasons Why Micron and Sandisk Investors Can Ignore What History Says Will Happen (Motley Fool)
-  - [2026-09-24] Alphabet Reportedly Values Its Anthropic Stake at $124 Billion. A $2 Trillion IPO Could Double It -- on Paper. (Motley Fool)
+  - [2026-09-25] Trump says China's Xi 'seemed to like' renaming AI as super intelligence (Yahoo Finance)
+  - [2026-09-25] What mortgage rate surges mean for home improvement stocks (Yahoo Finance Video)
+  - [2026-09-25] Could This Be Novo Nordisk’s Next Billion-Dollar Weight-Loss Product? (Motley Fool)
+  - [2026-09-25] Does IonQ's NVIDIA Quantum Tie-Up Reframe the Long-Term Hardware Opportunity for Rigetti Computing (RGTI)? (Simply Wall St.)
+  - [2026-09-25] Is Dogecoin the Best Crypto You Can Buy Right Now? (Motley Fool)
 
 ### AMZN
 - 名稱／產業：Amazon.com, Inc. | Consumer Cyclical / Internet Retail
-- 收盤：249.38（2026-09-24）｜報酬% 1d=0.04 5d=-0.72 21d=-4.47 63d=9.85
-- 技術：RSI=44.1952 SMA20/50/200=254.6355/256.1794/240.7339 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
-- 相對 52W：高 -13.17% / 低 27.23%｜量能比=0.92
-- 估值：PE=20.046625 FPE=24.005484 PEG=1.48 PB=4.8748927 市值=2689890779136.0
+- 收盤：249.67（2026-09-25）｜報酬% 1d=0.12 5d=-1.59 21d=-4.08 63d=7.3
+- 技術：RSI=44.5359 SMA20/50/200=254.306/256.175/240.8478 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
+- 相對 52W：高 -13.07% / 低 27.38%｜量能比=0.93
+- 估值：PE=20.102255 FPE=24.021444 PEG=1.48 PB=4.8805614 市值=2693018681344.0
 - 成長／獲利：營收成長=0.196 EPS成長=2.423 毛利=0.5077 ROE=0.30558002
-- 分析師：評等=strong_buy 目標均價=329.5393 意見數=57.0
+- 分析師：評等=buy 目標均價=329.5393 意見數=57.0
 - 近期新聞：
-  - [2026-09-24] Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck (Yahoo Finance)
-  - [2026-09-24] Blue Origin raises $10B as Bezos’ total investment hits $32B - WSJ (Investing.com)
-  - [2026-09-24] Shopify Opens Its Doors to Muse, Here’s Why Amazon Won’t (Insider Monkey)
-  - [2026-09-24] Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway. (Barrons.com)
-  - [2026-09-24] Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises (Investor's Business Daily)
+  - [2026-09-25] Musk’s ‘Zuckerberg moment,’ mortgage rates, and Google’s space bet (Yahoo Finance Video)
+  - [2026-09-25] Goldman Sachs just gave AI stock fans a cold, hard reality check (Yahoo Finance)
+  - [2026-09-25] Is Home Depot's Next Big Thing Already In Its Stores? (Trefis)
+  - [2026-09-25] Amazon Stocks Move Lower as Anthropic Commits $11.6 Billion Elsewhere (GuruFocus.com)
+  - [2026-09-25] Quantum Is a $850 Billion Dream. Microsoft and Amazon Are Betting Big on It. (Barrons.com)
 
 ### META
 - 名稱／產業：Meta Platforms, Inc. | Communication Services / Internet Content & Information
-- 收盤：777.59（2026-09-24）｜報酬% 1d=4.5 5d=14.05 21d=36.51 63d=43.35
-- 技術：RSI=80.5548 SMA20/50/200=651.4358/613.5671/624.989 訊號=death_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
-- 相對 52W：高 -0.29% / 低 49.72%｜量能比=1.55
-- 估值：PE=29.276733 FPE=22.262783 PEG=0.98 PB=7.5847645 市值=1980915384320.0
+- 收盤：751.66（2026-09-25）｜報酬% 1d=-3.33 5d=12.99 21d=30.57 63d=36.71
+- 技術：RSI=71.3834 SMA20/50/200=660.4863/615.32/625.4246 訊號=death_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
+- 相對 52W：高 -3.61% / 低 44.73%｜量能比=1.12
+- 估值：PE=28.343136 FPE=21.496538 PEG=1.03 PB=7.3318377 市值=1914858373120.0
 - 成長／獲利：營收成長=0.28 EPS成長=-0.134 毛利=0.81747 ROE=0.29848
-- 分析師：評等=strong_buy 目標均價=786.8021 意見數=57.0
+- 分析師：評等=strong_buy 目標均價=791.62665 意見數=57.0
 - 近期新聞：
-  - [2026-09-24] The era of AI wearables focused on listening is here (Yahoo Finance Video)
+  - [2026-09-25] Why this early Uber investor would short OpenAI (Yahoo Finance)
+  - [2026-09-25] 'Meta is having its moment' as stock's monster rally vindicates the bulls: Chart of the Day (Yahoo Finance)
+  - [2026-09-25] What Meta's Muse event reveals about Mark Zuckerberg's mindset right now (Yahoo Finance)
+  - [2026-09-25] Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck (Yahoo Finance)
   - [2026-09-24] Meta is banking its future on its Muse AI agent — and winning user trust (Yahoo Finance)
-  - [2026-09-24] Meta's $14 billion AI bet looks like it's finally paying off (Yahoo Finance)
-  - [2026-09-24] Here's what Wall Street thinks of Meta's new smartglass lineup and first Muse 'holdable' (Yahoo Finance)
-  - [2026-09-23] Meta unveils $1,299 VR Glasses, camera-less smart glasses at Meta Connect (Yahoo Finance)
 
 ### GOOGL
 - 名稱／產業：Alphabet Inc. | Communication Services / Internet Content & Information
-- 收盤：342.36（2026-09-24）｜報酬% 1d=1.34 5d=-1.43 21d=-1.26 63d=-0.33
-- 技術：RSI=48.5936 SMA20/50/200=341.9449/344.3416/337.6635 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -16.11% / 低 45.54%｜量能比=0.87
-- 估值：PE=17.178122 FPE=22.9784 PEG=1.21 PB=6.726658 市值=4187040514048.0
+- 收盤：343.92（2026-09-25）｜報酬% 1d=0.46 5d=-1.61 21d=0.63 63d=2.0
+- 技術：RSI=49.7743 SMA20/50/200=342.1194/344.1353/337.8176 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -15.73% / 低 46.21%｜量能比=0.79
+- 估值：PE=17.256397 FPE=23.083103 PEG=1.22 PB=6.7573094 市值=4206119354368.0
 - 成長／獲利：營收成長=0.242 EPS成長=2.94 毛利=0.60897 ROE=0.48676
 - 分析師：評等=strong_buy 目標均價=429.45557 意見數=54.0
 - 近期新聞：
-  - [2026-09-24] Meta's stock surges as it moves from AI laggard to leader (Yahoo Finance Video)
-  - [2026-09-24] How Muse AI is expanding Meta's moat, & why you shouldn't bring iced coffee to job interviews (Yahoo Finance Video)
-  - [2026-09-24] Alphabet Reportedly Values Its Anthropic Stake at $124 Billion. A $2 Trillion IPO Could Double It -- on Paper. (Motley Fool)
-  - [2026-09-24] Franklin Templeton CEO drops 7-word verdict for AI stock investors (TheStreet)
-  - [2026-09-24] Google Prepares to Put AI Chips Into Space (GuruFocus.com)
+  - [2026-09-25] Why this early Uber investor would short OpenAI (Yahoo Finance)
+  - [2026-09-25] Could OpenAI and Anthropic going public backfire? (Yahoo Finance Video)
+  - [2026-09-25] AI financing fears are mounting, sparked by Oracle's force majeure notice (Yahoo Finance Video)
+  - [2026-09-25] Weekly Wrap: The Crypto Rally Continues (CryptoProwl)
+  - [2026-09-25] The Case For and Against Fidelity’s Fundamental Large Cap Growth ETF (24/7 Wall St.)
 
 ### GOOG
 - 名稱／產業：Alphabet Inc. | Communication Services / Internet Content & Information
-- 收盤：339.01（2026-09-24）｜報酬% 1d=1.2 5d=-1.36 21d=-1.2 63d=-0.86
-- 技術：RSI=48.3284 SMA20/50/200=338.5674/342.0974/336.2601 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -16.08% / 低 43.61%｜量能比=0.88
-- 估值：PE=17.010035 FPE=22.753555 PEG=1.2 PB=6.660838 市值=4146070290432.0
+- 收盤：341.08（2026-09-25）｜報酬% 1d=0.61 5d=-0.97 21d=0.65 63d=1.98
+- 技術：RSI=50.0031 SMA20/50/200=338.7469/341.8474/336.3963 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -15.57% / 低 44.48%｜量能比=0.76
+- 估值：PE=17.113897 FPE=22.892488 PEG=1.21 PB=6.7015085 市值=4171386060800.0
 - 成長／獲利：營收成長=0.242 EPS成長=2.94 毛利=0.60897 ROE=0.48676
 - 分析師：評等=strong_buy 目標均價=422.336 意見數=15.0
 - 近期新聞：
-  - [2026-09-24] Meta's stock surges as it moves from AI laggard to leader (Yahoo Finance Video)
-  - [2026-09-24] How Muse AI is expanding Meta's moat, & why you shouldn't bring iced coffee to job interviews (Yahoo Finance Video)
-  - [2026-09-24] Alphabet Reportedly Values Its Anthropic Stake at $124 Billion. A $2 Trillion IPO Could Double It -- on Paper. (Motley Fool)
-  - [2026-09-24] Franklin Templeton CEO drops 7-word verdict for AI stock investors (TheStreet)
-  - [2026-09-24] Google Prepares to Put AI Chips Into Space (GuruFocus.com)
+  - [2026-09-25] Why this early Uber investor would short OpenAI (Yahoo Finance)
+  - [2026-09-25] Could OpenAI and Anthropic going public backfire? (Yahoo Finance Video)
+  - [2026-09-25] AI financing fears are mounting, sparked by Oracle's force majeure notice (Yahoo Finance Video)
+  - [2026-09-25] Weekly Wrap: The Crypto Rally Continues (CryptoProwl)
+  - [2026-09-25] The Case For and Against Fidelity’s Fundamental Large Cap Growth ETF (24/7 Wall St.)
 
 ### BRK-B
 - 名稱／產業：Berkshire Hathaway Inc. New | Financial Services / Insurance - Diversified
-- 收盤：505.18（2026-09-24）｜報酬% 1d=-0.39 5d=-2.81 21d=0.17 63d=2.1
-- 技術：RSI=47.5441 SMA20/50/200=507.7065/505.7404/492.6145 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -6.05% / 低 8.87%｜量能比=0.57
-- 估值：PE=12.705735 FPE=22.763506 PEG=10.06 PB=0.0009673591 市值=1081443745792.0
+- 收盤：505.48（2026-09-25）｜報酬% 1d=0.06 5d=-0.84 21d=0.11 63d=1.37
+- 技術：RSI=48.0544 SMA20/50/200=507.7245/506.2904/492.6515 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -6.0% / 低 8.94%｜量能比=0.63
+- 估值：PE=12.713281 FPE=22.777025 PEG=10.06 PB=0.0009679336 市值=1082085998592.0
 - 成長／獲利：營收成長=0.1 EPS成長=1.078 毛利=0.30332002 ROE=0.121199995
 - 分析師：評等=buy 目標均價=547.6667 意見數=3.0
 - 近期新聞：
-  - [2026-09-24] Berkshire Stays Flat as Lennar Stake Crosses 10% (GuruFocus.com)
-  - [2026-09-24] Berkshire Hathaway CEO Greg Abel Calls AI Data Center Demand a Significant Opportunity for Berkshire Energy. Here's What That Means for the Stock. (Motley Fool)
-  - [2026-09-24] Warren Buffett Has a Stark Warning for Investors as the Market Repeats a Pattern Seen Only Twice in 155 Years (Motley Fool)
-  - [2026-09-24] Billionaire Charlie Munger, 99, Said His Life Worked Better Treating Elon Musk Like He Didn’t ‘Exist’ — ‘I Never Bet Against Him, But I Never Bet With Him’ (Benzinga)
-  - [2026-09-24] Warren Buffett Says "Father Time Always Wins." History Says Investors Who Do This 1 Thing Will Win Out Anyway. (Motley Fool)
+  - [2026-09-25] Warren Buffett turned a 'death march' into $1 trillion Berkshire Hathaway; at 96, he is handing the chairman's seat to his son (TheStreet)
+  - [2026-09-25] Warren Buffett Steps Down as Berkshire Hathaway Chairman After Warning U.S. Dollar Is ‘Going to Hell’ (First for Money)
+  - [2026-09-25] The ‘Buffett of Bonds’ Hasn’t Retired Yet—and He Has Advice for These Tumultuous Times (Barrons.com)
+  - [2026-09-25] Howard Hughes Stock Rises After Executives Buy Shares Following Ackman Post (Barrons.com)
+  - [2026-09-25] Is Berkshire Hathaway Stock a Buy, Hold, or Sell Above $500? (24/7 Wall St.)
 
 ### LLY
 - 名稱／產業：Eli Lilly and Company | Healthcare / Drug Manufacturers - General
-- 收盤：1181.89（2026-09-24）｜報酬% 1d=2.68 5d=3.87 21d=-5.22 63d=5.94
-- 技術：RSI=55.4782 SMA20/50/200=1151.403/1176.1125/1065.7193 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -8.57% / 低 67.03%｜量能比=1.0
-- 估值：PE=39.647434 FPE=24.963701 PEG=1.16 PB=31.100733 市值=1053940252672.0
+- 收盤：1183.46（2026-09-25）｜報酬% 1d=0.13 5d=2.65 21d=-0.5 63d=-1.9
+- 技術：RSI=55.757 SMA20/50/200=1150.8075/1176.7351/1067.4961 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -8.45% / 低 66.31%｜量能比=0.81
+- 估值：PE=39.740093 FPE=24.892685 PEG=1.17 PB=31.142046 市值=1054885412864.0
 - 成長／獲利：營收成長=0.477 EPS成長=0.262 毛利=0.83399004 ROE=1.02286
 - 分析師：評等=buy 目標均價=1325.3855 意見數=29.0
 - 近期新聞：
-  - [2026-09-24] AbbVie vs. Eli Lilly: Which Star Pharma Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] Eli Lilly breaks ground on $6.5B Houston manufacturing plant (Construction Dive)
-  - [2026-09-24] Medicare just handed Eli Lilly a massive weight-loss win (TheStreet)
-  - [2026-09-24] Lilly Jumps 3.64% While a $100 Billion Obesity Race Crowds In (GuruFocus.com)
-  - [2026-09-24] Can Eli Lilly Stock Catch Up To Rivals It Outgrows? (Trefis)
+  - [2026-09-25] How to make sense of 7% mortgage rates and Oracle's AI data center disruption (Yahoo Finance Video)
+  - [2026-09-25] Sector Update: Healthcare Stocks Higher Late Afternoon (MT Newswires)
+  - [2026-09-25] Sector Update: Healthcare Stocks Edge Higher in Afternoon Trading (MT Newswires)
+  - [2026-09-25] Is LLY Stock Cheaper Than It Looks? (Trefis)
+  - [2026-09-25] Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money? (Trefis)
 
 ### AVGO
 - 名稱／產業：Broadcom Inc. | Technology / Semiconductors
-- 收盤：350.36（2026-09-24）｜報酬% 1d=-1.3 5d=1.06 21d=-1.61 63d=-7.37
-- 技術：RSI=42.3421 SMA20/50/200=358.4462/376.4247/367.2686 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bullish
-- 相對 52W：高 -28.98% / 低 21.24%｜量能比=0.75
-- 估值：PE=44.74585 FPE=18.074785 PEG=0.35 PB=16.778086 市值=1672488943616.0
+- 收盤：352.81（2026-09-25）｜報酬% 1d=0.7 5d=-1.16 21d=-0.6 63d=-3.17
+- 技術：RSI=44.0407 SMA20/50/200=357.5435/376.0055/367.0419 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bullish
+- 相對 52W：高 -28.48% / 低 22.09%｜量能比=0.58
+- 估值：PE=44.94395 FPE=18.203583 PEG=0.35 PB=16.895412 市值=1684184367104.0
 - 成長／獲利：營收成長=0.855 EPS成長=2.153 毛利=0.75515 ROE=0.44245
 - 分析師：評等=strong_buy 目標均價=531.8468 意見數=47.0
 - 近期新聞：
-  - [2026-09-24] Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears (Simply Wall St.)
-  - [2026-09-24] Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now (Motley Fool)
-  - [2026-09-24] Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test (GuruFocus.com)
-  - [2026-09-24] NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp (Trefis)
-  - [2026-09-24] Venture Capital and PE: A California Perspective on Governance: 2nd LA CorpGov Forum (CorpGov.com)
+  - [2026-09-25] How to make sense of 7% mortgage rates and Oracle's AI data center disruption (Yahoo Finance Video)
+  - [2026-09-25] How to fix overvalued AI companies and a McDonald's market play (Yahoo Finance Video)
+  - [2026-09-25] How Much Track Is Left For MRVL Stock? (Trefis)
+  - [2026-09-25] UiPath And 2 Other Undervalued Stocks (Simply Wall St.)
+  - [2026-09-25] Is AMD Stock Priced Right Against Its Chip Peers? (Trefis)
 
 ### JPM
 - 名稱／產業：JP Morgan Chase & Co. | Financial Services / Banks - Diversified
-- 收盤：338.56（2026-09-24）｜報酬% 1d=0.31 5d=-3.08 21d=-5.08 63d=1.48
-- 技術：RSI=35.0538 SMA20/50/200=351.8195/353.3456/319.3808 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
-- 相對 52W：高 -7.62% / 低 22.47%｜量能比=0.94
-- 估值：PE=14.51801 FPE=13.548909 PEG=1.57 PB=2.54543 市值=899955556352.0
+- 收盤：343.06（2026-09-25）｜報酬% 1d=1.33 5d=-1.89 21d=-3.77 63d=4.73
+- 技術：RSI=41.6893 SMA20/50/200=351.2615/353.3438/319.5421 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
+- 相對 52W：高 -6.4% / 低 24.1%｜量能比=1.29
+- 估值：PE=14.704672 FPE=13.728995 PEG=1.57 PB=2.5792627 市值=911917383680.0
 - 成長／獲利：營收成長=0.304 EPS成長=0.469 毛利=0.0 ROE=0.17789
 - 分析師：評等=buy 目標均價=374.2381 意見數=21.0
 - 近期新聞：
-  - [2026-09-24] Sigma Lithium (SGML) Stock Could Be A Bargain After JPMorgan Initiation (Simply Wall St.)
-  - [2026-09-24] JPMorgan Mulls $3.8 Billion Construction Financing for NYC Tower (Bloomberg)
-  - [2026-09-24] GM CFO expects improved 2027 cash flow after EV restructuring (CFO Dive)
-  - [2026-09-24] Quanta Services Stock Rises on Upgrade. Here’s Why Labor Is the Key. (Barrons.com)
-  - [2026-09-24] JPMorgan Resets CoreWeave Stock Price Target for 2026 (GuruFocus.com)
+  - [2026-09-25] Higher Lithium Prices Strengthen J.P. Morgan’s Case, But Execution Still Matters (Insider Monkey)
+  - [2026-09-25] JPMorgan Chase (JPM) Stock Could Be Undervalued Based On Capital Returns (Simply Wall St.)
+  - [2026-09-25] J.P. Morgan Loses Fight to Overturn $4.25 Million Award to Advisor Fired Over Super Bowl Platter (Barrons.com)
+  - [2026-09-25] J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade (Moneywise)
+  - [2026-09-25] JPMorgan Says Bitcoin’s Rally Lessens Pressure On Crypto Miners (CryptoProwl)
 
 ### TSLA
 - 名稱／產業：Tesla, Inc. | Consumer Cyclical / Auto Manufacturers
-- 收盤：377.94（2026-09-24）｜報酬% 1d=-0.57 5d=3.21 21d=7.91 63d=0.75
-- 技術：RSI=59.1384 SMA20/50/200=364.8195/348.6276/395.9594 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bullish
-- 相對 52W：高 -24.23% / 低 27.09%｜量能比=0.67
-- 估值：PE=356.54718 FPE=172.0067 PEG=4.54 PB=17.182995 市值=1492691976192.0
+- 收盤：372.11（2026-09-25）｜報酬% 1d=-1.54 5d=2.15 21d=7.6 63d=-2.0
+- 技術：RSI=55.3114 SMA20/50/200=365.6845/348.2486/395.622 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bullish
+- 相對 52W：高 -25.4% / 低 25.13%｜量能比=1.13
+- 估值：PE=338.2818 FPE=171.25119 PEG=4.52 PB=16.917934 市值=1469666033664.0
 - 成長／獲利：營收成長=0.255 EPS成長=-0.03 毛利=0.18852 ROE=0.046669997
 - 分析師：評等=buy 目標均價=396.62158 意見數=38.0
 - 近期新聞：
-  - [2026-09-24] Tesla's Roadster Reveal Is Oct. 1. The Real Story Is Optimus. (Motley Fool)
-  - [2026-09-24] Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck (Investor's Business Daily)
-  - [2026-09-24] Will Vertiv Holdings (VRT)’s $1.45 Billion UIG Deal Accelerate its AI Infrastructure Growth? (Insider Monkey)
-  - [2026-09-24] Elon Musk Touts Grok in Tesla Vehicles: Here’s What It Can Do (Benzinga)
-  - [2026-09-24] Top Stock Reports for Tesla, Bank of America & Coca-Cola (Zacks)
+  - [2026-09-25] Trump says China's Xi 'seemed to like' renaming AI as super intelligence (Yahoo Finance)
+  - [2026-09-25] Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets (Yahoo Finance)
+  - [2026-09-25] Why Elon Musk could be the next tech leader to have a 'Mark Zuckerberg moment' (Yahoo Finance Video)
+  - [2026-09-25] Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck (Yahoo Finance)
+  - [2026-09-25] Stock Market Today, Sept. 25: Tesla Stock Under Pressure Despite Plans to Ramp Semi Truck Production (Motley Fool)
 
 ### UNH
 - 名稱／產業：UnitedHealth Group Incorporated | Healthcare / Healthcare Plans
-- 收盤：375.01（2026-09-24）｜報酬% 1d=1.0 5d=-0.07 21d=-5.38 63d=-7.02
-- 技術：RSI=39.2993 SMA20/50/200=385.7735/399.139/350.9181 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
-- 相對 52W：高 -18.26% / 低 48.25%｜量能比=0.92
-- 估值：PE=24.1009 FPE=16.585886 PEG=1.01 PB=3.4473853 市值=336607051776.0
+- 收盤：376.59（2026-09-25）｜報酬% 1d=0.42 5d=-0.08 21d=-5.51 63d=-11.45
+- 技術：RSI=41.3109 SMA20/50/200=383.6911/397.3949/351.4675 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
+- 相對 52W：高 -17.92% / 低 48.87%｜量能比=0.8
+- 估值：PE=24.202442 FPE=16.655766 PEG=1.02 PB=3.4619098 市值=338025218048.0
 - 成長／獲利：營收成長=0.004 EPS成長=0.615 毛利=0.19723 ROE=0.14152999
 - 分析師：評等=buy 目標均價=481.72 意見數=25.0
 - 近期新聞：
+  - [2026-09-25] Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher (24/7 Wall St.)
+  - [2026-09-25] Encompass Health Adds New Capacity With First Small-Format Hospital (Zacks)
+  - [2026-09-25] UnitedHealth, BlackRock, and Stanley Black & Decker Just Paid Shareholders. Here’s What They Got. (24/7 Wall St.)
+  - [2026-09-24] Does UnitedHealth’s New CAO Hire Reveal a Deeper Shift in Efficiency Strategy for UNH? (Simply Wall St.)
   - [2026-09-24] Q2 Earnings Outperformers: UnitedHealth (NYSE:UNH) And The Rest Of The Health Insurance Providers Stocks (StockStory)
-  - [2026-09-24] What Should CVS Stock Investors Be Watching Now? (Trefis)
-  - [2026-09-24] UnitedHealth names first chief administrative officer (Healthcare Dive)
-  - [2026-09-24] You Only Need $2,000 and 1 Fund to Start Building a Dividend Portfolio. Here’s the ETF to Use (24/7 Wall St.)
-  - [2026-09-24] UnitedHealth: Inside the $942 Million Industry Problem Squeezing Its Margins (TIKR)
 
 ### XOM
 - 名稱／產業：ExxonMobil Holdings Corporation | Energy / Oil & Gas Integrated
-- 收盤：162.14（2026-09-24）｜報酬% 1d=0.56 5d=-0.72 21d=-1.16 63d=19.2
-- 技術：RSI=51.4064 SMA20/50/200=162.249/158.3921/146.0305 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -6.87% / 低 51.14%｜量能比=0.84
-- 估值：PE=20.86744 FPE=14.962202 PEG=1.38 PB=2.5703866 市值=666705395712.0
+- 收盤：160.59（2026-09-25）｜報酬% 1d=-0.96 5d=-1.8 21d=1.52 63d=18.38
+- 技術：RSI=48.9466 SMA20/50/200=162.4825/159.0062/146.4873 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -7.76% / 低 49.69%｜量能比=0.73
+- 估值：PE=20.667953 FPE=14.498916 PEG=1.39 PB=2.5458148 市值=660331954176.0
 - 成長／獲利：營收成長=0.441 EPS成長=1.128 毛利=0.29767 ROE=0.12584
-- 分析師：評等=buy 目標均價=171.90909 意見數=22.0
+- 分析師：評等=buy 目標均價=172.54546 意見數=22.0
 - 近期新聞：
-  - [2026-09-24] Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)? (Insider Monkey)
-  - [2026-09-24] Did ExxonMobil’s (XOM) 2076 Floating‑Rate Notes Just Quietly Redefine Its Long‑Term Funding Playbook? (Simply Wall St.)
-  - [2026-09-24] Caterpillar or Exxon: Which Dividend Has More Room to Grow? (24/7 Wall St.)
-  - [2026-09-24] Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks (MT Newswires)
-  - [2026-09-24] Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell (MT Newswires)
+  - [2026-09-25] The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella (Yahoo Finance Video)
+  - [2026-09-25] Top Analyst Reports for ExxonMobil, Automatic Data Processing & Cadence (Zacks)
+  - [2026-09-25] What Happens To ExxonMobil Stock If Refining Profits Fade? (Trefis)
+  - [2026-09-25] Chevron's Cost Discipline: Turning Efficiency Into Lasting Value (Zacks)
+  - [2026-09-25] Vietnam’s BSR inks crude oil supply agreement with ExxonMobil (Offshore Technology)
 
 ### V
 - 名稱／產業：Visa Inc. | Financial Services / Credit Services
-- 收盤：367.98（2026-09-24）｜報酬% 1d=1.79 5d=-0.8 21d=-3.77 63d=10.97
-- 技術：RSI=48.1927 SMA20/50/200=373.1305/367.5593/335.4796 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -4.56% / 低 25.7%｜量能比=0.74
-- 估值：PE=31.317448 FPE=24.52497 PEG=1.64 PB=19.500795 市值=690829197312.0
+- 收盤：367.38（2026-09-25）｜報酬% 1d=-0.16 5d=-0.25 21d=-4.3 63d=9.47
+- 技術：RSI=48.0047 SMA20/50/200=371.4235/367.7688/335.8559 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -4.72% / 低 25.5%｜量能比=0.76
+- 估值：PE=31.293016 FPE=24.484982 PEG=1.67 PB=19.468998 市值=689702764544.0
 - 成長／獲利：營收成長=0.144 EPS成長=0.102 毛利=0.97725 ROE=0.6119
 - 分析師：評等=strong_buy 目標均價=419.36163 意見數=37.0
 - 近期新聞：
+  - [2026-09-25] How Much Upside Does PayPal Stock Have Without A Buyer? (Trefis)
+  - [2026-09-25] The UK Just Ran the World’s First Interbank Tokenized Deposit Transactions. The Same Platform Is Headed to 25 US Banks. (Forkast News)
+  - [2026-09-25] How Has Visa's Growth Story Changed? (Trefis)
+  - [2026-09-24] Visa (V) vs American Express (AXP): Which is a Better Stock to Buy (Insider Monkey)
   - [2026-09-24] Mastercard’s Faster Services Growth Could Reshape its Rivalry with Visa (Insider Monkey)
-  - [2026-09-24] Visa Share Rises as Payment Networks Standardize AI-Agent Identity (GuruFocus.com)
-  - [2026-09-24] Moov adds P2P competition (Payments Dive)
-  - [2026-09-24] Visa (V): A High Margin Company with Long-Term Growth Potential (Insider Monkey)
-  - [2026-09-24] Can Visa's Klook Deal Expand Its Travel Ecosystem in Southeast Asia? (Zacks)
 
 ### MA
 - 名稱／產業：Mastercard Incorporated | Financial Services / Credit Services
-- 收盤：566.08（2026-09-24）｜報酬% 1d=1.1 5d=-0.29 21d=-5.63 63d=14.69
-- 技術：RSI=46.4343 SMA20/50/200=576.099/568.087/530.84 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -5.85% / 低 22.07%｜量能比=0.83
-- 估值：PE=31.103296 FPE=24.585653 PEG=1.46 PB=88.50532 市值=495891709952.0
+- 收盤：567.65（2026-09-25）｜報酬% 1d=0.28 5d=0.43 21d=-5.15 63d=13.94
+- 技術：RSI=48.6144 SMA20/50/200=572.766/568.8228/531.0545 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -5.59% / 低 22.41%｜量能比=0.91
+- 估值：PE=31.18956 FPE=24.653841 PEG=1.48 PB=88.750786 市值=497267048448.0
 - 成長／獲利：營收成長=0.141 EPS成長=0.221 毛利=1.0 ROE=2.41202
 - 分析師：評等=strong_buy 目標均價=666.7138 意見數=37.0
 - 近期新聞：
-  - [2026-09-24] Mastercard’s Faster Services Growth Could Reshape its Rivalry with Visa (Insider Monkey)
-  - [2026-09-24] Visa Share Rises as Payment Networks Standardize AI-Agent Identity (GuruFocus.com)
-  - [2026-09-24] Mastercard Gains as Banks Challenge Agentic-Commerce Guardrails (GuruFocus.com)
-  - [2026-09-24] Moov adds P2P competition (Payments Dive)
-  - [2026-09-24] SoFi Built a Bank, a Card Program, and a Stablecoin, but the Stock Struggles to Budge (24/7 Wall St.)
+  - [2026-09-25] How Much Upside Does PayPal Stock Have Without A Buyer? (Trefis)
+  - [2026-09-25] The UK Just Ran the World’s First Interbank Tokenized Deposit Transactions. The Same Platform Is Headed to 25 US Banks. (Forkast News)
+  - [2026-09-25] Mastercard Stock Holds Flat as $25 Billion Stablecoin Settlement Goes Live (GuruFocus.com)
+  - [2026-09-25] How Has Visa's Growth Story Changed? (Trefis)
+  - [2026-09-25] Mastercard Incorporated (MA) Is a Trending Stock: Facts to Know Before Betting on It (Zacks)
 
 ### PG
 - 名稱／產業：Procter & Gamble Company (The) | Consumer Defensive / Household & Personal Products
-- 收盤：145.68（2026-09-24）｜報酬% 1d=-1.16 5d=-0.91 21d=-0.63 63d=-3.47
-- 技術：RSI=49.4552 SMA20/50/200=145.681/145.9181/145.9214 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bullish
-- 相對 52W：高 -11.59% / 低 8.21%｜量能比=0.88
-- 估值：PE=22.006042 FPE=19.687017 PEG=3.77 PB=6.3485417 市值=338366889984.0
+- 收盤：146.23（2026-09-25）｜報酬% 1d=0.38 5d=-0.11 21d=0.85 63d=-1.14
+- 技術：RSI=50.7846 SMA20/50/200=145.9965/145.8604/146.0154 訊號=death_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -11.25% / 低 8.62%｜量能比=0.7
+- 估值：PE=22.122541 FPE=19.761345 PEG=3.73 PB=6.3725104 市值=339901841408.0
 - 成長／獲利：營收成長=0.015 EPS成長=-0.155 毛利=0.50873 ROE=0.30290002
 - 分析師：評等=buy 目標均價=160.6087 意見數=23.0
 - 近期新聞：
+  - [2026-09-25] Procter And Gamble (PG) Pushes Scalp Care While Valuation Debate Stays In Focus (Simply Wall St.)
+  - [2026-09-25] P&G vs. Hershey: One Dividend Has a Major Advantage When Costs Surge (24/7 Wall St.)
+  - [2026-09-25] This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold It Forever. (Motley Fool)
   - [2026-09-24] Scholastic (SCHL) Reports Q1 Loss, Lags Revenue Estimates (Zacks)
   - [2026-09-24] These Dow Jones Stocks Buck Index's Dud Performance (Investor's Business Daily)
-  - [2026-09-24] Dave Ramsey Says You Need More Than 6% Just to Break Even. Dividend Growth Is One Way to Get There. (24/7 Wall St.)
-  - [2026-09-24] CDs Offer Certainty. Dividend Stocks Offer Something Retirees May Need More (24/7 Wall St.)
-  - [2026-09-24] Kimberly-Clark’s 54-Year Dividend Streak Masks a Troubling Cash Flow Problem (24/7 Wall St.)
 
 ### JNJ
 - 名稱／產業：Johnson & Johnson | Healthcare / Drug Manufacturers - General
-- 收盤：270.68（2026-09-24）｜報酬% 1d=0.56 5d=1.27 21d=-0.38 63d=12.87
-- 技術：RSI=56.1141 SMA20/50/200=269.409/263.3605/237.5435 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -3.7% / 低 57.34%｜量能比=0.94
-- 估值：PE=31.437864 FPE=22.300215 PEG=2.82 PB=7.6714654 市值=652311330816.0
+- 收盤：271.22（2026-09-25）｜報酬% 1d=0.2 5d=0.46 21d=0.45 63d=7.03
+- 技術：RSI=57.2264 SMA20/50/200=269.641/264.2777/238.2597 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -3.5% / 低 56.4%｜量能比=0.64
+- 估值：PE=31.500582 FPE=22.344704 PEG=2.84 PB=7.68677 市值=653612679168.0
 - 成長／獲利：營收成長=0.066 EPS成長=-0.009 毛利=0.6814 ROE=0.25742
 - 分析師：評等=buy 目標均價=277.9091 意見數=22.0
 - 近期新聞：
-  - [2026-09-24] J&J Gains 1.7% as Caplyta Opens a Mania Expansion Path (GuruFocus.com)
-  - [2026-09-24] Can Eli Lilly Stock Catch Up To Rivals It Outgrows? (Trefis)
-  - [2026-09-24] Can This Number Push ISRG Stock Higher? (Trefis)
-  - [2026-09-24] Dave Ramsey Says You Need More Than 6% Just to Break Even. Dividend Growth Is One Way to Get There. (24/7 Wall St.)
-  - [2026-09-24] CDs Offer Certainty. Dividend Stocks Offer Something Retirees May Need More (24/7 Wall St.)
+  - [2026-09-25] Is LLY Stock Cheaper Than It Looks? (Trefis)
+  - [2026-09-25] Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money? (Trefis)
+  - [2026-09-25] ABBV vs. JNJ: One of These Dividend Aristocrats Will Crush the Other Over the Next Decade (24/7 Wall St.)
+  - [2026-09-25] The 1 Number That Decides Whether a Dividend Lasts Your Whole Retirement (24/7 Wall St.)
+  - [2026-09-25] Johnson & Johnson says Tremfya eases spinal pain in Phase 4 psoriatic arthritis study (Proactive)
 
 ### HD
 - 名稱／產業：Home Depot, Inc. (The) | Consumer Cyclical / Home Improvement Retail
-- 收盤：292.18（2026-09-24）｜報酬% 1d=-1.53 5d=-3.4 21d=-12.77 63d=-14.15
-- 技術：RSI=25.05 SMA20/50/200=311.5267/327.2597/336.5964 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
-- 相對 52W：高 -26.97% / 低 2.57%｜量能比=1.62
-- 估值：PE=20.432167 FPE=18.232988 PEG=2.5 PB=17.548347 市值=291504947200.0
+- 收盤：293.2（2026-09-25）｜報酬% 1d=0.35 5d=-2.26 21d=-11.79 63d=-15.34
+- 技術：RSI=31.9149 SMA20/50/200=308.5239/325.5424/336.1414 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bearish
+- 相對 52W：高 -26.71% / 低 2.93%｜量能比=1.31
+- 估值：PE=20.503496 FPE=18.296642 PEG=2.47 PB=17.609612 市值=292522590208.0
 - 成長／獲利：營收成長=0.057 EPS成長=0.046 毛利=0.32801 ROE=1.0429599
 - 分析師：評等=buy 目標均價=377.1875 意見數=32.0
 - 近期新聞：
-  - [2026-09-24] Home Depot (HD) Stock Could Be 7% Overvalued Following Gig Delivery Cost Questions (Simply Wall St.)
-  - [2026-09-24] Can Home Depot's Pro Expansion Offset Today's Frozen Housing Market? (Zacks)
-  - [2026-09-24] Is HD Stock Worth Buying as Pro Growth Battles Housing Headwinds? (Zacks)
-  - [2026-09-24] HD Stock Falls 11.4% in a Month. Does the Pullback Offer Opportunity? (Zacks)
-  - [2026-09-24] Americans Run Out Of Money To Buy A House (24/7 Wall St.)
+  - [2026-09-25] Musk’s ‘Zuckerberg moment,’ mortgage rates, and Google’s space bet (Yahoo Finance Video)
+  - [2026-09-25] What mortgage rate surges mean for home improvement stocks (Yahoo Finance Video)
+  - [2026-09-25] Is Home Depot's Next Big Thing Already In Its Stores? (Trefis)
+  - [2026-09-25] Home Depot vs. Floor & Decor: Which Stock Looks More Attractive? (Zacks)
+  - [2026-09-25] 91-year-old investor sees healthcare titan doubling in 3 years (TheStreet)
 
 ### COST
 - 名稱／產業：Costco Wholesale Corporation | Consumer Defensive / Discount Stores
-- 收盤：896.48（2026-09-24）｜報酬% 1d=-0.91 5d=0.31 21d=-7.71 63d=-6.57
-- 技術：RSI=38.4035 SMA20/50/200=915.628/935.037/958.0862 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bearish
-- 相對 52W：高 -18.11% / 低 6.68%｜量能比=1.31
-- 估值：PE=45.049248 FPE=39.628593 PEG=4.43 PB=11.865578 市值=397569884160.0
-- 成長／獲利：營收成長=0.116 EPS成長=0.152 毛利=0.12876001 ROE=0.29152
-- 分析師：評等=buy 目標均價=1069.2 意見數=35.0
+- 收盤：922.765（2026-09-25）｜報酬% 1d=2.93 5d=3.07 21d=-3.49 63d=-2.97
+- 技術：RSI=52.3178 SMA20/50/200=912.1977/934.2974/958.3252 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bullish
+- 相對 52W：高 -15.71% / 低 9.81%｜量能比=1.98
+- 估值：PE=46.370102 FPE=36.963326 PEG=4.39 PB=11.4244585 市值=409226739712.0
+- 成長／獲利：營收成長=0.111 EPS成長=0.15 毛利=0.12824 ROE=0.28402
+- 分析師：評等=buy 目標均價=1061.7142 意見數=35.0
 - 近期新聞：
-  - [2026-09-24] Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck (Investor's Business Daily)
-  - [2026-09-24] Costco tops Q4 estimates: Revenue hits $95.7B on massive e-commerce surge (Investing.com)
-  - [2026-09-24] Costco Wholesale Misses Quarterly Revenue Estimates (Barrons.com)
-  - [2026-09-24] Costco (NASDAQ:COST) Posts Better-Than-Expected Sales In Q3 CY2026 (StockStory)
-  - [2026-09-24] Costco Stock Keeps Defying Expectations. Here’s My 2027 Price Prediction (24/7 Wall St.)
+  - [2026-09-25] How Costco is keeping shoppers coming back as K-shaped economy widens (Yahoo Finance Video)
+  - [2026-09-25] Costco is getting squeezed by the AI boom (Yahoo Finance)
+  - [2026-09-25] Costco tops Q4 estimates, boosted by tariff refunds (Yahoo Finance Video)
+  - [2026-09-25] Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises (Investor's Business Daily)
+  - [2026-09-25] Is Home Depot's Next Big Thing Already In Its Stores? (Trefis)
 
 ### ABBV
 - 名稱／產業：AbbVie Inc. | Healthcare / Drug Manufacturers - General
-- 收盤：265.12（2026-09-24）｜報酬% 1d=0.02 5d=0.99 21d=0.23 63d=13.67
-- 技術：RSI=60.4001 SMA20/50/200=259.656/256.4272/227.9428 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
-- 相對 52W：高 -1.59% / 低 39.98%｜量能比=0.81
-- 估值：PE=75.10481 FPE=16.307028 PEG=0.54 PB=-78.92825 市值=468498120704.0
+- 收盤：264.34（2026-09-25）｜報酬% 1d=-0.29 5d=0.14 21d=0.55 63d=5.08
+- 技術：RSI=58.5788 SMA20/50/200=260.081/257.0482/228.3964 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -1.87% / 低 39.57%｜量能比=0.62
+- 估值：PE=74.461975 FPE=16.249537 PEG=0.54 PB=-78.69604 市值=467119767552.0
 - 成長／獲利：營收成長=0.102 EPS成長=2.904 毛利=0.72792 ROE=None
 - 分析師：評等=buy 目標均價=278.60715 意見數=28.0
 - 近期新聞：
-  - [2026-09-24] AbbVie vs. Novo Nordisk: Which Drug Giant Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] AbbVie vs. Eli Lilly: Which Star Pharma Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] AbbVie Stays Flat as 6,000-Property AI Hunts Better Molecules (GuruFocus.com)
-  - [2026-09-24] Can Eli Lilly Stock Catch Up To Rivals It Outgrows? (Trefis)
-  - [2026-09-24] Oruka Therapeutics' Psoriasis Treatment Maintains 'Competitive Profile' After Positive Clinical Data, UBS Says (MT Newswires)
+  - [2026-09-25] AbbVie vs. Pfizer: Which Healthcare Stock Makes Your Portfolio Healthier in 2026? (Motley Fool)
+  - [2026-09-25] Is LLY Stock Cheaper Than It Looks? (Trefis)
+  - [2026-09-25] Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money? (Trefis)
+  - [2026-09-25] ABBV vs. JNJ: One of These Dividend Aristocrats Will Crush the Other Over the Next Decade (24/7 Wall St.)
+  - [2026-09-25] ADARx Pharmaceuticals raises $446 million in upsized IPO (Quartz)
 
 ### MRK
 - 名稱／產業：Merck & Company, Inc. | Healthcare / Drug Manufacturers - General
-- 收盤：147.98（2026-09-24）｜報酬% 1d=-0.07 5d=2.12 21d=-1.2 63d=23.43
-- 技術：RSI=57.6973 SMA20/50/200=147.467/138.717/119.6628 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -5.14% / 低 96.35%｜量能比=1.06
-- 估值：PE=120.30894 FPE=15.521503 PEG=2.7 PB=8.71188 市值=365092044800.0
+- 收盤：148.78（2026-09-25）｜報酬% 1d=0.54 5d=1.3 21d=-2.25 63d=16.32
+- 技術：RSI=57.9542 SMA20/50/200=147.4083/139.7155/120.1964 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -4.63% / 低 97.13%｜量能比=0.84
+- 估值：PE=119.024 FPE=15.606773 PEG=2.7 PB=8.758978 市值=367065792512.0
 - 成長／獲利：營收成長=0.051 EPS成長=None 毛利=0.759 ROE=0.06961
 - 分析師：評等=buy 目標均價=153.65385 意見數=26.0
 - 近期新聞：
-  - [2026-09-24] Merck Jumps as Winrevair Moves Earlier in PAH (GuruFocus.com)
-  - [2026-09-24] Can Eli Lilly Stock Catch Up To Rivals It Outgrows? (Trefis)
-  - [2026-09-24] These Dow Jones Stocks Buck Index's Dud Performance (Investor's Business Daily)
-  - [2026-09-24] Merck Says Investigational Diabetes-Related Blindness Drug at Par With Roche’s Medicine (Benzinga)
-  - [2026-09-24] Inhibrx’s Cancer Drug Nearly Doubled Response Rate, So Why Did the Stock Fall? (Insider Monkey)
+  - [2026-09-25] Is LLY Stock Cheaper Than It Looks? (Trefis)
+  - [2026-09-25] Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money? (Trefis)
+  - [2026-09-25] Merck's Remigromig Meets Main Goal in Diabetic Macular Edema Study (Zacks)
+  - [2026-09-25] Merck remigromig DME trial results raise safety concerns (Quartz)
+  - [2026-09-25] Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer’s data (BioPharma Dive)
 
 ### CVX
 - 名稱／產業：Chevron Corporation | Energy / Oil & Gas Integrated
-- 收盤：205.65（2026-09-24）｜報酬% 1d=0.07 5d=-2.78 21d=1.26 63d=20.99
-- 技術：RSI=49.6074 SMA20/50/200=208.9275/199.4231/182.0557 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -5.57% / 低 44.31%｜量能比=0.93
-- 估值：PE=19.927326 FPE=15.155021 PEG=0.9 PB=2.1244833 市值=403403702272.0
+- 收盤：204.45（2026-09-25）｜報酬% 1d=-0.58 5d=-2.42 21d=2.12 63d=20.56
+- 技術：RSI=48.1183 SMA20/50/200=209.2715/200.3144/182.6371 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -6.12% / 低 43.46%｜量能比=0.7
+- 估值：PE=19.658655 FPE=15.066588 PEG=0.9 PB=2.1120868 市值=401049780224.0
 - 成長／獲利：營收成長=0.535 EPS成長=3.219 毛利=0.44267 ROE=0.12231
-- 分析師：評等=buy 目標均價=222.16667 意見數=24.0
+- 分析師：評等=buy 目標均價=223.91667 意見數=24.0
 - 近期新聞：
-  - [2026-09-24] These Dow Jones Stocks Buck Index's Dud Performance (Investor's Business Daily)
-  - [2026-09-24] How a Roth IRA Can Keep Thousands More of Your DJIA Dividend Income Compounding (24/7 Wall St.)
-  - [2026-09-24] Chevron Eyes Egyptian Export Route for Cyprus Gas (Oilprice.com)
-  - [2026-09-24] Chevron to Deepen Greece Bet With Offshore Seismic Exploration (Zacks)
-  - [2026-09-24] Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks (MT Newswires)
+  - [2026-09-25] What Happens To ExxonMobil Stock If Refining Profits Fade? (Trefis)
+  - [2026-09-25] Chevron (CVX) Accelerates Cyprus Gas Export Plans Through Egypt (Simply Wall St.)
+  - [2026-09-25] Chevron's Cost Discipline: Turning Efficiency Into Lasting Value (Zacks)
+  - [2026-09-25] Update: US Equity Futures Higher Pre-Bell as Treasury Yields Remain Elevated, Oil Prices Decline (MT Newswires)
+  - [2026-09-25] Chevron or IBM: One of These Dividends Costs $17 Billion a Year to Protect (24/7 Wall St.)
 
 ### CRM
 - 名稱／產業：Salesforce, Inc. | Technology / Software - Application
-- 收盤：238.22（2026-09-24）｜報酬% 1d=0.27 5d=-4.75 21d=14.15 63d=56.22
-- 技術：RSI=53.6414 SMA20/50/200=247.2959/210.8007/200.5978 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -11.05% / 低 63.09%｜量能比=0.56
-- 估值：PE=21.79506 FPE=14.884146 PEG=0.79 PB=5.108509 市值=196055056384.0
+- 收盤：234.02（2026-09-25）｜報酬% 1d=-1.76 5d=-1.64 21d=14.01 63d=48.03
+- 技術：RSI=50.2983 SMA20/50/200=247.8176/213.365/200.3556 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -12.61% / 低 60.22%｜量能比=0.58
+- 估值：PE=21.410795 FPE=14.620091 PEG=0.8 PB=5.018442 市值=192598458368.0
 - 成長／獲利：營收成長=0.108 EPS成長=1.189 毛利=0.77282 ROE=0.19381
 - 分析師：評等=buy 目標均價=281.0783 意見數=53.0
 - 近期新聞：
-  - [2026-09-24] Adobe Stock Slides 18%: Value Play or Falling Knife? (Trefis)
-  - [2026-09-24] What Is Salesforce No Longer Telling You? (Trefis)
-  - [2026-09-24] Adobe Rises 24% in 3 Months: Should You Buy, Sell or Hold the Stock? (Zacks)
-  - [2026-09-24] NOW Expands Legacy Replacement Push With AI Platform: What's Ahead? (Zacks)
-  - [2026-09-24] Palantir vs. Salesforce: One Trades at 144x Earnings. Only One Pays You to Own It. (Barchart)
+  - [2026-09-25] Can Palantir’s AI moat survive the competition? (Yahoo Finance Video)
+  - [2026-09-25] Here’s The Actual Reason I Keep Buying Salesforce On Repeat (24/7 Wall St.)
+  - [2026-09-25] Why Is Salesforce (CRM) Down 5.5% Since Last Earnings Report? (Zacks)
+  - [2026-09-25] 3 Software ETFs to Buy as the SaaSpocalypse Bottoms Out (Zacks)
+  - [2026-09-25] How Will SAP's AI Platform Support Cloud Revenue Growth? (Zacks)
 
 ### WMT
 - 名稱／產業：Walmart Inc. | Consumer Defensive / Discount Stores
-- 收盤：107.59（2026-09-24）｜報酬% 1d=-2.66 5d=0.75 21d=2.1 63d=-6.85
-- 技術：RSI=48.2892 SMA20/50/200=106.8395/109.3835/118.1308 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bullish
-- 相對 52W：高 -20.21% / 低 9.72%｜量能比=1.06
-- 估值：PE=38.981884 FPE=33.315063 PEG=4.22 PB=9.080857 市值=856209686528.0
+- 收盤：107.98（2026-09-25）｜報酬% 1d=0.36 5d=1.17 21d=3.49 63d=-6.44
+- 技術：RSI=49.4716 SMA20/50/200=107.107/109.2496/118.1077 訊號=death_cross_zone, short_below_mid, below_sma200, macd_bullish
+- 相對 52W：高 -19.92% / 低 10.12%｜量能比=0.83
+- 估值：PE=39.123188 FPE=33.43086 PEG=4.13 PB=9.113775 市值=856685936640.0
 - 成長／獲利：營收成長=0.059 EPS成長=-0.091 毛利=0.24836999 ROE=0.22313999
 - 分析師：評等=buy 目標均價=127.425 意見數=40.0
 - 近期新聞：
-  - [2026-09-24] Amazon Faces Another Worker Lawsuit. Is Employment Scrutiny Becoming an Investor Risk? (Insider Monkey)
-  - [2026-09-24] Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify (Motley Fool)
-  - [2026-09-24] e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] Horizon Commerce, Pacvue Expand Alliance (MediaPost)
-  - [2026-09-24] Walmart Falls as Scintilla Turns Supplier Data Into AI (GuruFocus.com)
+  - [2026-09-25] Gift card scam hits Walmart, CVS, and Walgreens (TheStreet)
+  - [2026-09-25] Is Home Depot's Next Big Thing Already In Its Stores? (Trefis)
+  - [2026-09-25] Iran War Is Driving Up the Cost of Your Next Oil Change (The Wall Street Journal)
+  - [2026-09-25] Popular Walmart frozen meal recalled over possible listeria (TheStreet)
+  - [2026-09-25] ALDI makes new move to win shoppers from Walmart and Kroger (TheStreet)
 
 ### BAC
 - 名稱／產業：Bank of America Corporation | Financial Services / Banks - Diversified
-- 收盤：56.03（2026-09-24）｜報酬% 1d=0.05 5d=-3.7 21d=-9.79 63d=-3.22
-- 技術：RSI=25.4254 SMA20/50/200=60.1573/61.407/54.7756 訊號=golden_cross_zone, short_below_mid, above_sma200, rsi_oversold, macd_bearish
-- 相對 52W：高 -13.67% / 低 22.74%｜量能比=1.06
-- 估值：PE=12.939954 FPE=10.588539 PEG=0.85 PB=1.4241778 市值=391803699200.0
+- 收盤：56.7（2026-09-25）｜報酬% 1d=1.2 5d=-1.78 21d=-8.42 63d=-1.54
+- 技術：RSI=31.3431 SMA20/50/200=59.9493/61.3174/54.7938 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
+- 相對 52W：高 -12.63% / 低 24.21%｜量能比=0.76
+- 估值：PE=13.094688 FPE=10.722248 PEG=0.85 PB=1.4412079 市值=396488835072.0
 - 成長／獲利：營收成長=0.168 EPS成長=0.341 毛利=0.0 ROE=0.111990005
 - 分析師：評等=strong_buy 目標均價=68.61905 意見數=21.0
 - 近期新聞：
-  - [2026-09-24] Top Stock Reports for Tesla, Bank of America & Coca-Cola (Zacks)
-  - [2026-09-24] Nebius gets BofA boost as AI infrastructure revenue outlook climbs (Proactive)
-  - [2026-09-24] Carnival hit by rising oil costs as BofA cuts price target (Proactive)
-  - [2026-09-24] Okta price target lifted to $220 as BofA sees stronger AI agent positioning (Proactive)
-  - [2026-09-24] MGM Stock Tumbles After Barry Diller’s People Scraps Takeover Bid – Mizuho Says Withdrawal Was ‘Not Terribly Surprising’ (Stocktwits)
+  - [2026-09-25] Analyst Predicts Nike Stock Could Fall to $30 After S&P 100 Drop (Footwear News)
+  - [2026-09-25] ‘Risks Are Rising’ for Nike and It’s Time to Sell the Stock, Says Bank of America (Investopedia)
+  - [2026-09-25] Bank of America Harshly Resets Nike Stock Target For 2026 (GuruFocus.com)
+  - [2026-09-25] 59% of Americans Reached Their Emergency Fund Goal in 2026: Here's How (MoneyLion)
+  - [2026-09-25] Major Banks Face Lack of Catalysts Through Upcoming Earnings, But Strong Medium-Term Outlook, Morgan Stanley Says (MT Newswires)
 
 ### NFLX
 - 名稱／產業：Netflix, Inc. | Communication Services / Entertainment
-- 收盤：71.72（2026-09-24）｜報酬% 1d=0.5 5d=-4.77 21d=-12.78 63d=1.16
-- 技術：RSI=38.2237 SMA20/50/200=77.1805/75.601/84.8409 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -42.56% / 低 10.2%｜量能比=0.86
-- 估值：PE=22.55346 FPE=18.808252 PEG=1.22 PB=9.904709 市值=298637754368.0
+- 收盤：71.145（2026-09-25）｜報酬% 1d=-0.8 5d=-0.9 21d=-12.66 63d=-3.61
+- 技術：RSI=37.0672 SMA20/50/200=76.7458/75.5369/84.7127 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -43.02% / 低 9.32%｜量能比=0.71
+- 估值：PE=22.37264 FPE=18.65746 PEG=1.23 PB=9.825299 市值=296243462144.0
 - 成長／獲利：營收成長=0.134 EPS成長=0.111 毛利=0.49118 ROE=0.49541
 - 分析師：評等=buy 目標均價=92.92667 意見數=45.0
 - 近期新聞：
+  - [2026-09-25] 1 Wall Street Analyst Just Called Netflix a Sell. Is It Time To Dump the Streaming Stock? (Motley Fool)
+  - [2026-09-25] Amazon Stock: Is AI Capex Outrunning the Payback? (Trefis)
+  - [2026-09-25] Jim Cramer Wants To Focus On The Fundamentals For This Major Streaming Stock (Insider Monkey)
+  - [2026-09-24] Netflix's Revenue Growth Has Slowed for 2 Straight Quarters. Should You Buy the Stock Anyway? (Motley Fool)
   - [2026-09-24] Netflix Edges Higher Despite HSBC Engagement Expectations Cut (GuruFocus.com)
-  - [2026-09-24] What Would A Real Market Crash Do To Netflix Stock After This Fall? (Trefis)
-  - [2026-09-24] Bond Yields Are Flashing Red for Stocks. What Happens Next. (Barrons.com)
-  - [2026-09-24] Zacks Investment Ideas feature highlights: Netflix (Zacks)
-  - [2026-09-24] HSBC sends blunt message to Netflix stock investors (TheStreet)
 
 ### AMD
 - 名稱／產業：Advanced Micro Devices, Inc. | Technology / Semiconductors
-- 收盤：629.26（2026-09-24）｜報酬% 1d=2.38 5d=15.44 21d=31.32 63d=18.16
-- 技術：RSI=72.825 SMA20/50/200=520.406/502.1192/362.706 訊號=golden_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
-- 相對 52W：高 -0.24% / 低 306.55%｜量能比=1.17
-- 估值：PE=160.11705 FPE=40.41311 PEG=0.64 PB=15.276638 市值=1027251240960.0
+- 收盤：630.63（2026-09-25）｜報酬% 1d=0.22 5d=12.65 21d=31.13 63d=20.91
+- 技術：RSI=72.9957 SMA20/50/200=528.104/504.713/364.7536 訊號=golden_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
+- 相對 52W：高 -1.3% / 低 301.55%｜量能比=0.81
+- 估值：PE=160.46565 FPE=40.501095 PEG=0.64 PB=15.309897 市值=1029487722496.0
 - 成長／獲利：營收成長=0.501 EPS成長=1.595 毛利=0.55724 ROE=0.10196
-- 分析師：評等=strong_buy 目標均價=616.508 意見數=50.0
+- 分析師：評等=strong_buy 目標均價=618.508 意見數=50.0
 - 近期新聞：
-  - [2026-09-24] Elon Musk Touts Grok in Tesla Vehicles: Here’s What It Can Do (Benzinga)
-  - [2026-09-24] Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify (Motley Fool)
-  - [2026-09-24] AMD Investors Must Pay Attention to This Huge Warning Sign (Motley Fool)
-  - [2026-09-24] AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B (BeInCrypto)
-  - [2026-09-24] Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street. (Investor's Business Daily)
+  - [2026-09-25] Trump says China's Xi 'seemed to like' renaming AI as super intelligence (Yahoo Finance)
+  - [2026-09-25] These are stocks getting lifted up by Meta's Muse (Yahoo Finance Video)
+  - [2026-09-25] Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck (Yahoo Finance)
+  - [2026-09-25] Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today’s Market (Barrons.com)
+  - [2026-09-25] How Much Track Is Left For MRVL Stock? (Trefis)
 
 ### PEP
 - 名稱／產業：Pepsico, Inc. | Consumer Defensive / Beverages - Non-Alcoholic
-- 收盤：128.15（2026-09-24）｜報酬% 1d=-1.56 5d=-4.61 21d=-10.47 63d=-8.96
-- 技術：RSI=25.3601 SMA20/50/200=135.8251/137.051/145.1059 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
-- 相對 52W：高 -22.99% / 低 0.13%｜量能比=1.07
-- 估值：PE=16.795544 FPE=14.301034 PEG=1.33 PB=7.9217405 市值=175052898304.0
+- 收盤：128.63（2026-09-25）｜報酬% 1d=0.37 5d=-0.86 21d=-8.57 63d=-8.05
+- 技術：RSI=29.7761 SMA20/50/200=134.8696/136.8089/144.9947 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
+- 相對 52W：高 -22.7% / 低 1.36%｜量能比=0.75
+- 估值：PE=16.880579 FPE=14.354602 PEG=1.31 PB=7.9514127 市值=175708585984.0
 - 成長／獲利：營收成長=0.064 EPS成長=1.37 毛利=0.54171 ROE=0.51508
 - 分析師：評等=hold 目標均價=153.86365 意見數=22.0
 - 近期新聞：
-  - [2026-09-24] Dave Ramsey Says You Need More Than 6% Just to Break Even. Dividend Growth Is One Way to Get There. (24/7 Wall St.)
-  - [2026-09-24] PepsiCo Makes Surprising U-Turn on Snack Prices (GuruFocus.com)
-  - [2026-09-24] Doctors Diagnosed Her With a Rare Cancer and Gave Her Months to Live. She Survived and Opened a $500,000 Fitness Franchise. (Entrepreneur)
-  - [2026-09-24] 3 US Consumer Staples Stocks To Watch As Inflation Squeezes Shoppers (Simply Wall St.)
-  - [2026-09-24] Market Chatter: PepsiCo to Raise Prices on Some Chips, Dips, Soda (MT Newswires)
+  - [2026-09-25] PepsiCo to raise chip, soda prices. Here's when to expect increases (USA TODAY)
+  - [2026-09-25] Tesla Starts Semi Deliveries. Here's The Final Production Target — With No Timeline (Investor's Business Daily)
+  - [2026-09-25] PepsiCo (PEP) Stock Still Looks Like A Bargain On Cash Flow (Simply Wall St.)
+  - [2026-09-25] 2 Dividend Kings to Buy Now and 1 to Avoid Despite the Yield (Motley Fool)
+  - [2026-09-25] Tesla's Semi Is Finally Moving Into a Bigger Test (GuruFocus.com)
 
 ### KO
 - 名稱／產業：Coca-Cola Company (The) | Consumer Defensive / Beverages - Non-Alcoholic
-- 收盤：88.1（2026-09-24）｜報酬% 1d=0.01 5d=0.26 21d=-3.66 63d=9.96
-- 技術：RSI=52.1002 SMA20/50/200=88.0668/86.8559/78.4933 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -4.18% / 低 38.4%｜量能比=0.83
-- 估值：PE=26.456457 FPE=24.983126 PEG=4.0 PB=10.486847 市值=379054555136.0
+- 收盤：87.81（2026-09-25）｜報酬% 1d=-0.33 5d=-0.5 21d=-1.94 63d=6.9
+- 技術：RSI=49.9748 SMA20/50/200=87.984/87.0567/78.6876 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -4.49% / 低 37.94%｜量能比=0.77
+- 估值：PE=26.36937 FPE=24.900888 PEG=4.0 PB=10.452327 市值=377806815232.0
 - 成長／獲利：營收成長=0.067 EPS成長=0.169 毛利=0.61888003 ROE=0.42054
 - 分析師：評等=buy 目標均價=94.69565 意見數=23.0
 - 近期新聞：
-  - [2026-09-24] Top Stock Reports for Tesla, Bank of America & Coca-Cola (Zacks)
-  - [2026-09-24] Dave Ramsey Says You Need More Than 6% Just to Break Even. Dividend Growth Is One Way to Get There. (24/7 Wall St.)
-  - [2026-09-24] Has Coca-Cola (KO) Priced In Its Cash Flow Outlook? (Simply Wall St.)
-  - [2026-09-24] Berkshire Hathaway Owns 400 Million Shares of Coca-Cola. Here Is What That Dividend Is Worth Now. (24/7 Wall St.)
-  - [2026-09-24] Can Primo Brands' Brand-Building Improve Premium Penetration? (Zacks)
+  - [2026-09-25] 2 Dividend Kings to Buy Now and 1 to Avoid Despite the Yield (Motley Fool)
+  - [2026-09-25] Coca-Cola’s Secret Dividend Weapon Is a Business Model Most Investors Overlook (24/7 Wall St.)
+  - [2026-09-25] The Zacks Analyst Blog Highlights Tesla, Bank of America, Coca-Cola and Texas Community Bancshares (Zacks)
+  - [2026-09-25] Surging International Sales And Coca-Cola Partnership Could Be A Game Changer For Monster Beverage (MNST) (Simply Wall St.)
+  - [2026-09-25] 2 Soaring Stocks to Hold for the Next 7 Years (Motley Fool)
 
 ### TMO
 - 名稱／產業：Thermo Fisher Scientific Inc | Healthcare / Diagnostics & Research
-- 收盤：678.39（2026-09-24）｜報酬% 1d=1.97 5d=4.62 21d=7.98 63d=37.93
-- 技術：RSI=74.7638 SMA20/50/200=628.8099/598.7672/538.3308 訊號=golden_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
-- 相對 52W：高 -0.67% / 低 56.13%｜量能比=0.98
-- 估值：PE=36.551186 FPE=24.63025 PEG=1.98 PB=4.7615337 市值=250832879616.0
+- 收盤：675.0（2026-09-25）｜報酬% 1d=-0.5 5d=3.62 21d=6.6 63d=31.67
+- 技術：RSI=72.5777 SMA20/50/200=632.3138/603.8845/539.3135 訊號=golden_cross_zone, short_above_mid, above_sma200, rsi_overbought, macd_bullish
+- 相對 52W：高 -1.17% / 低 55.35%｜量能比=0.96
+- 估值：PE=36.368534 FPE=24.50717 PEG=2.02 PB=4.7377396 市值=249579421696.0
 - 成長／獲利：營收成長=0.105 EPS成長=0.094 毛利=0.40987998 ROE=0.13515
-- 分析師：評等=buy 目標均價=649.96295 意見數=27.0
+- 分析師：評等=buy 目標均價=653.1111 意見數=27.0
 - 近期新聞：
+  - [2026-09-25] Here's How Much a $1000 Investment in Thermo Fisher Scientific Made 10 Years Ago Would Be Worth Today (Zacks)
   - [2026-09-24] Dodge and Cox’s Bullish Stance on Thermo Fisher Scientific (TMO) (Insider Monkey)
   - [2026-09-24] Biodesix Advances MRD Monitoring Programs With Bio-Rad and Thermo Fisher (InvestorsHub)
   - [2026-09-24] Buy 3 AI-Powered Medical Stocks to Strengthen Your Portfolio in Q4 (Zacks)
   - [2026-09-24] Thermo Fisher Scientific (TMO) Launches Gibco CHO K1 Panel On A Fair Value Question (Simply Wall St.)
-  - [2026-09-24] Thermo Fisher Scientific (TMO) Rolls Out New Media Panel For Biologics Development (Simply Wall St.)
 
 ### LIN
 - 名稱／產業：Linde plc | Basic Materials / Specialty Chemicals
-- 收盤：468.14（2026-09-24）｜報酬% 1d=-0.34 5d=1.31 21d=-4.15 63d=-8.93
-- 技術：RSI=44.468 SMA20/50/200=472.2848/484.9133/480.8719 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bullish
-- 相對 52W：高 -14.32% / 低 21.91%｜量能比=1.05
-- 估值：PE=30.202581 FPE=23.935154 PEG=1.82 PB=5.5219517 市值=215803265024.0
+- 收盤：469.89（2026-09-25）｜報酬% 1d=0.37 5d=2.06 21d=-3.85 63d=-9.27
+- 技術：RSI=46.6967 SMA20/50/200=470.4009/482.9795/481.6396 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bullish
+- 相對 52W：高 -14.0% / 低 22.37%｜量能比=0.82
+- 估值：PE=30.315485 FPE=24.02463 PEG=1.81 PB=5.542594 市值=216609980416.0
 - 成長／獲利：營收成長=0.093 EPS成長=0.113 毛利=0.48348 ROE=0.18400998
 - 分析師：評等=buy 目標均價=542.6 意見數=25.0
 - 近期新聞：
+  - [2026-09-25] Linde Has Quietly Compounded for Years. These 3 Stocks Share Its Stickiest Advantage (24/7 Wall St.)
   - [2026-09-24] FCEL Targets Hydrogen Growth With Versatile Tri-gen Platform (Zacks)
   - [2026-09-23] Linde (LIN) Draws Valuation Attention, Is The Premium Already Too Rich? (Simply Wall St.)
   - [2026-09-21] Why Did Bloom Energy Stock More Than Triple In A Year? (Trefis)
   - [2026-09-21] The Zacks Analyst Blog Highlights AMD, Linde, Amgen and INNOVATE (Zacks)
-  - [2026-09-18] Top Research Reports for AMD, Linde & Amgen (Zacks)
 
 ### ACN
 - 名稱／產業：Accenture plc | Technology / Information Technology Services
-- 收盤：177.41（2026-09-24）｜報酬% 1d=-3.33 5d=-6.45 21d=-4.89 63d=39.02
-- 技術：RSI=45.7992 SMA20/50/200=185.852/173.7652/196.194 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -37.8% / 低 51.96%｜量能比=0.94
-- 估值：PE=14.170128 FPE=12.090833 PEG=1.33 PB=3.4038105 市值=108564643840.0
+- 收盤：176.11（2026-09-25）｜報酬% 1d=-0.73 5d=-2.86 21d=-2.91 63d=38.18
+- 技術：RSI=44.324 SMA20/50/200=185.4055/175.3292/195.3815 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -38.25% / 低 50.85%｜量能比=1.02
+- 估值：PE=14.055068 FPE=12.002235 PEG=1.29 PB=3.3788686 市值=107769118720.0
 - 成長／獲利：營收成長=0.056 EPS成長=0.09 毛利=0.32013 ROE=0.24406
-- 分析師：評等=buy 目標均價=191.61292 意見數=24.0
+- 分析師：評等=buy 目標均價=192.48792 意見數=24.0
 - 近期新聞：
+  - [2026-09-25] How Much Downside Is Left In Accenture Stock? (Trefis)
+  - [2026-09-25] ACN Stock Rises 37.6% in Three Months: Here's What You Should Know (Zacks)
+  - [2026-09-25] Is IBM Stock A Real Bargain? (Trefis)
+  - [2026-09-24] Accenture (ACN) Declines More Than Market: Some Information for Investors (Zacks)
   - [2026-09-24] Is IBM Stock's Upside Built On Growth It Is Not Guiding To? (Trefis)
-  - [2026-09-24] This AI Underdog Stock Just Landed a $1 Billion Catalyst With Anthropic (Barchart)
-  - [2026-09-24] Accenture (ACN) Earnings Expected to Grow: Should You Buy? (Zacks)
-  - [2026-09-24] Anthropic’s CEO Warned of AI Risks and Accenture Found a Business Opportunity There. How to Play ACN Stock Now. (Barchart)
-  - [2026-09-24] Accenture (ACN) Launches Construct Following A New Question About Whether The Stock Is Fully Valued (Simply Wall St.)
 
 ### MCD
 - 名稱／產業：McDonald's Corporation | Consumer Cyclical / Restaurants
-- 收盤：237.02（2026-09-24）｜報酬% 1d=-0.55 5d=-4.61 21d=-10.96 63d=-9.77
-- 技術：RSI=25.3499 SMA20/50/200=253.2202/262.0002/288.5585 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
-- 相對 52W：高 -29.29% / 低 1.28%｜量能比=1.25
-- 估值：PE=19.238638 FPE=17.093327 PEG=2.06 PB=-163.91425 市值=167725203456.0
+- 收盤：236.5（2026-09-25）｜報酬% 1d=-0.22 5d=-4.73 21d=-10.77 63d=-11.71
+- 技術：RSI=24.986 SMA20/50/200=252.134/261.2996/288.2218 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
+- 相對 52W：高 -29.44% / 低 1.06%｜量能比=1.11
+- 估值：PE=19.227642 FPE=17.059185 PEG=2.05 PB=-163.55464 市值=167357218816.0
 - 成長／獲利：營收成長=0.037 EPS成長=0.057 毛利=0.57382 ROE=None
 - 分析師：評等=buy 目標均價=299.8 意見數=30.0
 - 近期新聞：
-  - [2026-09-24] Why McDonald's stance on GLP-1s completely misses the mark (Yahoo Finance Video)
-  - [2026-09-24] Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck (Yahoo Finance)
-  - [2026-09-24] McDonald’s Breaks to a New 52-Week Low After the CEO Says Things Are Not Getting Better (24/7 Wall St.)
-  - [2026-09-24] McDonald’s set to spend billions on big changes. What to expect (USA TODAY)
-  - [2026-09-24] McDonald’s has big plans for its loyalty program (CX Dive)
+  - [2026-09-25] How Costco is keeping shoppers coming back as K-shaped economy widens (Yahoo Finance Video)
+  - [2026-09-25] A Quick Bite On EAT Stock: How We Avoided A Bad Aftertaste In Brinker (Investor's Business Daily)
+  - [2026-09-25] How Much Should One Number Worry Starbucks Shareholders? (Trefis)
+  - [2026-09-25] McDonald’s Will Wiggle Its Way Out of Today’s Classic Economic Squeeze…Eventually (24/7 Wall St.)
+  - [2026-09-25] McDonald’s CEO says high inflation will last ‘many more years’ — but there’s a McLimit to how much people will tolerate (Moneywise)
 
 ### CSCO
 - 名稱／產業：Cisco Systems, Inc. | Technology / Communication Equipment
-- 收盤：106.97（2026-09-24）｜報酬% 1d=0.51 5d=-2.97 21d=-3.73 63d=-9.75
-- 技術：RSI=42.2242 SMA20/50/200=109.3335/112.506/96.404 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
-- 相對 52W：高 -17.64% / 低 63.33%｜量能比=1.64
-- 估值：PE=32.123123 FPE=19.027443 PEG=0.98 PB=8.394413 市值=421738512384.0
+- 收盤：106.7（2026-09-25）｜報酬% 1d=-0.25 5d=-2.57 21d=-5.04 63d=-5.86
+- 技術：RSI=41.6813 SMA20/50/200=109.061/112.4468/96.5489 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bearish
+- 相對 52W：高 -17.85% / 低 62.92%｜量能比=0.85
+- 估值：PE=32.04204 FPE=18.979416 PEG=0.99 PB=8.373224 市值=420674011136.0
 - 成長／獲利：營收成長=0.176 EPS成長=0.521 毛利=0.64524 ROE=0.27319
 - 分析師：評等=buy 目標均價=137.25 意見數=24.0
 - 近期新聞：
-  - [2026-09-24] Cisco Systems (CSCO) And Its AI Security Story Still Look Slightly Undervalued (Simply Wall St.)
-  - [2026-09-24] Cisco Drops as 1,000 Switches Build an AI Campus (GuruFocus.com)
-  - [2026-09-24] Cisco CEO warns workers who worry about change that ‘nothing’s going to feel good right now’ with AI (Fortune)
-  - [2026-09-24] Qualcomm or Cisco: One Dividend Will Outpace the Other From Here (24/7 Wall St.)
-  - [2026-09-24] 1 Growth Stock with All-Star Potential and 2 We Find Risky (StockStory)
+  - [2026-09-25] How to make sense of 7% mortgage rates and Oracle's AI data center disruption (Yahoo Finance Video)
+  - [2026-09-25] What Was Cisco Telling You Before Its Stock Ran? (Trefis)
+  - [2026-09-25] 2 Nasdaq 100 Stocks to Target This Week and 1 We Question (StockStory)
+  - [2026-09-25] Cisco Stock: One Number Could Tell Investors Where It’s Headed Next (24/7 Wall St.)
+  - [2026-09-25] Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple? (Insider Monkey)
 
 ### ABT
 - 名稱／產業：Abbott Laboratories | Healthcare / Medical Devices
-- 收盤：101.07（2026-09-24）｜報酬% 1d=-2.34 5d=-1.26 21d=-13.37 63d=12.49
-- 技術：RSI=35.2536 SMA20/50/200=106.048/106.6682/103.9065 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bearish
-- 相對 52W：高 -23.66% / 低 24.18%｜量能比=0.7
-- 估值：PE=32.70874 FPE=16.66323 PEG=1.9 PB=3.42181 市值=174889844736.0
+- 收盤：101.29（2026-09-25）｜報酬% 1d=0.22 5d=-1.29 21d=-11.23 63d=8.39
+- 技術：RSI=36.1422 SMA20/50/200=105.0125/107.0058/103.7181 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bearish
+- 相對 52W：高 -23.49% / 低 24.45%｜量能比=0.88
+- 估值：PE=32.779938 FPE=16.699503 PEG=1.85 PB=3.429258 市值=176428253184.0
 - 成長／獲利：營收成長=0.13 EPS成長=-0.475 毛利=0.56847 ROE=0.10576
 - 分析師：評等=buy 目標均價=120.2636 意見數=25.0
 - 近期新聞：
+  - [2026-09-25] NVST vs. ABT: Which Stock Is the Better Value Option? (Zacks)
+  - [2026-09-24] Abbott (ABT) Registers a Bigger Fall Than the Market: Important Facts to Note (Zacks)
   - [2026-09-24] FDA Advisors Said It Should Approve the Grail Multicancer Blood Test. The Stock Rises Sharply. (Barrons.com)
   - [2026-09-24] Abbott Laboratories (ABT) is Facing Segment Competition and Sluggish Nutrition Recovery (Insider Monkey)
   - [2026-09-23] Is Abbott’s Digital Health Push and Formula Settlement Altering The Investment Case For Abbott (ABT)? (Simply Wall St.)
-  - [2026-09-23] Here's Why You Should Hold Stryker Stock in Your Portfolio for Now (Zacks)
-  - [2026-09-23] What Makes Abbott Laboratories (ABT) an Attractive Opportunity? (Insider Monkey)
 
 ### ORCL
 - 名稱／產業：Oracle Corporation | Technology / Software - Infrastructure
-- 收盤：139.54（2026-09-24）｜報酬% 1d=-3.47 5d=-7.34 21d=-3.61 63d=-8.16
-- 技術：RSI=42.5237 SMA20/50/200=149.3765/141.9874/164.218 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -56.32% / 低 21.87%｜量能比=1.67
-- 估值：PE=21.871471 FPE=12.688695 PEG=0.81 PB=6.8261423 市值=421932105728.0
+- 收盤：137.1（2026-09-25）｜報酬% 1d=-1.75 5d=-7.12 21d=-7.91 63d=-7.37
+- 技術：RSI=40.6091 SMA20/50/200=148.6345/142.2452/163.8113 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -57.08% / 低 19.74%｜量能比=0.7
+- 估值：PE=21.489029 FPE=12.466821 PEG=0.78 PB=10.513804 市值=414554226688.0
 - 成長／獲利：營收成長=0.296 EPS成長=0.545 毛利=0.63957 ROE=0.41192
 - 分析師：評等=buy 目標均價=237.97415 意見數=41.0
 - 近期新聞：
-  - [2026-09-24] Oracle just declared a very unusual force majeure at its AI data center (Yahoo Finance Video)
-  - [2026-09-24] Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck (Yahoo Finance)
-  - [2026-09-24] Update: US Equity Indexes Close Mixed as Higher Crude Oil, Hawkish Fed-Speak Push Treasury Yields Sharply Higher (MT Newswires)
-  - [2026-09-24] Oracle moves to shield itself from AI buildout risks (Axios)
-  - [2026-09-24] Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market (Barrons.com)
+  - [2026-09-25] How to make sense of 7% mortgage rates and Oracle's AI data center disruption (Yahoo Finance Video)
+  - [2026-09-25] AI financing fears are mounting, sparked by Oracle's force majeure notice (Yahoo Finance Video)
+  - [2026-09-25] Why Oracle stock's pullback should've been even 'deeper' (Yahoo Finance Video)
+  - [2026-09-25] Bloom Energy Stock Is Today’s Top S&P 500 Performer. It Has a Lot to Do With Oracle. (Barrons.com)
+  - [2026-09-25] Cipher Digital’s $5.2B Fluidstack Extension, Nscale’s $35B IPO, Oracle’s “Hell or High Water” Project Jupiter (Blockspace)
 
 ### DHR
 - 名稱／產業：Danaher Corporation | Healthcare / Diagnostics & Research
-- 收盤：223.77（2026-09-24）｜報酬% 1d=1.0 5d=7.4 21d=4.03 63d=18.72
-- 技術：RSI=68.1 SMA20/50/200=210.67/205.093/201.3441 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
-- 相對 52W：高 -7.45% / 低 39.34%｜量能比=1.57
-- 估值：PE=39.8877 FPE=24.064293 PEG=1.33 PB=2.9913378 市值=157307191296.0
+- 收盤：224.49（2026-09-25）｜報酬% 1d=0.32 5d=5.99 21d=4.24 63d=14.42
+- 技術：RSI=68.8765 SMA20/50/200=211.397/205.8886/201.3309 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -7.15% / 低 39.78%｜量能比=1.11
+- 估值：PE=39.944843 FPE=24.141722 PEG=1.34 PB=3.0009625 市值=157813342208.0
 - 成長／獲利：營收成長=0.055 EPS成長=0.597 毛利=0.58752996 ROE=0.07605
 - 分析師：評等=strong_buy 目標均價=230.8261 意見數=23.0
 - 近期新聞：
@@ -586,130 +586,130 @@
 
 ### ADBE
 - 名稱／產業：Adobe Inc. | Technology / Software - Application
-- 收盤：238.93（2026-09-24）｜報酬% 1d=-0.73 5d=-5.44 21d=-12.77 63d=23.54
-- 技術：RSI=38.3333 SMA20/50/200=262.3805/257.4148/263.2022 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -34.31% / 低 25.67%｜量能比=0.61
-- 估值：PE=13.340591 FPE=8.63396 PEG=0.58 PB=7.9413033 市值=94974672896.0
+- 收盤：235.47（2026-09-25）｜報酬% 1d=-1.45 5d=-5.4 21d=-13.9 63d=16.15
+- 技術：RSI=36.6349 SMA20/50/200=259.6965/257.418/262.6839 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -35.26% / 低 23.85%｜量能比=0.56
+- 估值：PE=13.140067 FPE=8.50893 PEG=0.58 PB=7.826304 市值=93599326208.0
 - 成長／獲利：營收成長=0.129 EPS成長=0.105 毛利=0.89252996 ROE=0.61902
 - 分析師：評等=hold 目標均價=278.15485 意見數=33.0
 - 近期新聞：
+  - [2026-09-25] Investors Heavily Search Adobe Inc. (ADBE): Here is What You Need to Know (Zacks)
+  - [2026-09-25] Prediction: Adobe Stock Trades Back Above $350 Before 2030 (Motley Fool)
+  - [2026-09-24] What Could Send Autodesk Stock Higher? (Trefis)
   - [2026-09-24] Adobe Stock Slides 18%: Value Play or Falling Knife? (Trefis)
   - [2026-09-24] What Is Salesforce No Longer Telling You? (Trefis)
-  - [2026-09-24] Keynote Fireside: Business and Governance in LA: 2nd LA CorpGov Forum (CorpGov.com)
-  - [2026-09-24] I Put Meta’s Muse AI Agent to Work. It Saved Me $25 a Month—and Found Me a Doctor. (Barrons.com)
-  - [2026-09-24] Adobe Rises 24% in 3 Months: Should You Buy, Sell or Hold the Stock? (Zacks)
 
 ### TXN
 - 名稱／產業：Texas Instruments Incorporated | Technology / Semiconductors
-- 收盤：270.65（2026-09-24）｜報酬% 1d=-0.72 5d=3.83 21d=4.52 63d=-10.25
-- 技術：RSI=54.024 SMA20/50/200=262.137/271.5175/243.5634 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -18.56% / 低 80.19%｜量能比=0.56
-- 估值：PE=41.194824 FPE=25.42544 PEG=0.97 PB=13.722557 市值=247170482176.0
+- 收盤：278.07（2026-09-25）｜報酬% 1d=2.74 5d=4.29 21d=6.23 63d=-2.08
+- 技術：RSI=60.1578 SMA20/50/200=263.1955/270.7192/244.5234 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -16.33% / 低 85.13%｜量能比=0.65
+- 估值：PE=42.25988 FPE=26.122492 PEG=0.96 PB=14.098768 市值=253946789888.0
 - 成長／獲利：營收成長=0.228 EPS成長=0.518 毛利=0.58325 ROE=0.35176
 - 分析師：評等=buy 目標均價=324.7097 意見數=31.0
 - 近期新聞：
+  - [2026-09-25] Stocks Supported by Lower Crude Prices and Strength in Chipmakers (Barchart)
+  - [2026-09-25] What Does NVIDIA Offer That Texas Instruments Does Not? (Trefis)
+  - [2026-09-25] MCHP Expands 48V Power Portfolio: Can It Outpace TXN & ADI? (Zacks)
+  - [2026-09-25] Benjamin Rosen, Who Persuaded Wall Street to Take PCs Seriously, Dies at 93 (The Wall Street Journal)
   - [2026-09-24] You Only Need $2,000 and 1 Fund to Start Building a Dividend Portfolio. Here’s the ETF to Use (24/7 Wall St.)
-  - [2026-09-24] Is Trending Stock Texas Instruments Incorporated (TXN) a Buy Now? (Zacks)
-  - [2026-09-23] Does Texas Instruments' (TXN) Richer Dividend Signal Enduring Strength in Its Cash-Heavy Business Model? (Simply Wall St.)
-  - [2026-09-23] Own ON Semiconductor For AI Power, Or Own Micron's Contracts? (Trefis)
-  - [2026-09-23] How Far Can Applied Materials Stock Move On You In A Year? (Trefis)
 
 ### PM
 - 名稱／產業：Philip Morris International Inc | Consumer Defensive / Tobacco
-- 收盤：191.5（2026-09-24）｜報酬% 1d=0.35 5d=-0.11 21d=0.02 63d=8.0
-- 技術：RSI=53.6605 SMA20/50/200=189.4215/189.8836/174.9403 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -7.83% / 低 38.34%｜量能比=0.66
-- 估值：PE=26.268862 FPE=20.8361 PEG=2.29 PB=-34.773926 市值=298474471424.0
+- 收盤：190.48（2026-09-25）｜報酬% 1d=-0.53 5d=0.99 21d=-1.87 63d=5.37
+- 技術：RSI=51.7433 SMA20/50/200=189.228/190.0834/175.4017 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -8.32% / 低 37.6%｜量能比=0.79
+- 估值：PE=26.164833 FPE=20.725119 PEG=2.3 PB=-34.588703 市值=296884666368.0
 - 成長／獲利：營收成長=0.104 EPS成長=-0.075 毛利=0.67481005 ROE=None
 - 分析師：評等=buy 目標均價=208.13333 意見數=15.0
 - 近期新聞：
+  - [2026-09-25] 2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down (StockStory)
+  - [2026-09-25] PM vs. MO: The Smoke-Free Dividend Winner in This Tobacco Showdown (24/7 Wall St.)
   - [2026-09-24] Why the Economy Can Handle Surging Bond Yields—for Now (Barrons.com)
   - [2026-09-24] 3 Reasons Growth Investors Will Love Philip Morris (PM) (Zacks)
   - [2026-09-24] Is Coca-Cola (KO) Outperforming Other Consumer Staples Stocks This Year? (Zacks)
-  - [2026-09-23] Trump administration plans to speed approvals of vapes and nicotine pouches - WSJ (Investing.com)
-  - [2026-09-23] Sin Stock Investing: Finding Opportunities in Controversial Industries (Zacks)
 
 ### WFC
 - 名稱／產業：Wells Fargo & Company | Financial Services / Banks - Diversified
-- 收盤：82.18（2026-09-24）｜報酬% 1d=0.34 5d=-5.59 21d=-3.0 63d=-1.96
-- 技術：RSI=35.217 SMA20/50/200=87.2615/86.8361/84.3437 訊號=golden_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -14.55% / 低 13.56%｜量能比=0.86
-- 估值：PE=11.944767 FPE=10.399952 PEG=1.41 PB=1.544911 市值=248512249856.0
+- 收盤：82.97（2026-09-25）｜報酬% 1d=0.96 5d=-3.66 21d=-2.65 63d=-0.49
+- 技術：RSI=38.5284 SMA20/50/200=87.0575/86.667/84.2894 訊號=golden_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -13.73% / 低 14.66%｜量能比=0.65
+- 估值：PE=12.059593 FPE=10.453125 PEG=1.39 PB=1.5597624 市值=250901217280.0
 - 成長／獲利：營收成長=0.095 EPS成長=0.25 毛利=0.0 ROE=0.12575
-- 分析師：評等=buy 目標均價=100.45652 意見數=23.0
+- 分析師：評等=buy 目標均價=100.36957 意見數=23.0
 - 近期新聞：
+  - [2026-09-25] Polymarket Wagers on Bank Failures Trigger FDIC Concerns (Bloomberg)
+  - [2026-09-25] DB's 2028 Targets Gain Traction: What's Driving Growth Momentum? (Zacks)
   - [2026-09-24] Wells Fargo Says the AI Spending Math Breaks in 2028 and Just Cut Its S&P 500 Target to 7,700 (24/7 Wall St.)
   - [2026-09-23] Wells Fargo Names COO Powell as Next Chief Risk Officer (The Wall Street Journal)
   - [2026-09-23] 32-Story Downtown Boston Office Tower Heading To Foreclosure Auction (Bisnow)
-  - [2026-09-23] How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal (Investor's Business Daily)
-  - [2026-09-23] How Does Meta's Muse AI Raise Risks for Banks & Other Finance Firms? (Zacks)
 
 ### IBM
 - 名稱／產業：International Business Machines | Technology / Information Technology Services
-- 收盤：227.06（2026-09-24）｜報酬% 1d=-2.45 5d=-4.39 21d=-1.72 63d=-13.03
-- 技術：RSI=42.5664 SMA20/50/200=235.708/229.5613/255.5485 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -31.21% / 低 14.81%｜量能比=0.73
-- 估值：PE=20.147293 FPE=17.269901 PEG=2.2 PB=6.209254 市值=213921038336.0
+- 收盤：225.51（2026-09-25）｜報酬% 1d=-0.68 5d=-1.76 21d=-1.9 63d=-16.38
+- 技術：RSI=41.2831 SMA20/50/200=235.1195/230.1554/254.809 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
+- 相對 52W：高 -31.68% / 低 14.03%｜量能比=0.74
+- 估值：PE=20.02753 FPE=17.15201 PEG=2.15 PB=6.166867 市值=212460716032.0
 - 成長／獲利：營收成長=0.011 EPS成長=-0.018 毛利=0.58098 ROE=0.34460998
 - 分析師：評等=buy 目標均價=240.59 意見數=22.0
 - 近期新聞：
-  - [2026-09-24] IBM's New Swift Connection Is One More Headache for XRP Investors (Motley Fool)
-  - [2026-09-24] Is IBM Stock's Upside Built On Growth It Is Not Guiding To? (Trefis)
-  - [2026-09-24] These Dow Jones Stocks Buck Index's Dud Performance (Investor's Business Daily)
-  - [2026-09-24] IBM Falls Over 2.4% After Buying Sovereign Cybersecurity Credentials (GuruFocus.com)
-  - [2026-09-24] Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test (MT Newswires)
+  - [2026-09-25] International Business Machines (IBM) Faces Probe Over Z Mainframe Disclosure Risks (Simply Wall St.)
+  - [2026-09-25] Quantum Is a $850 Billion Dream. Microsoft and Amazon Are Betting Big on It. (Barrons.com)
+  - [2026-09-25] IBM Stock Gains as z17 Enters an AI Classroom (GuruFocus.com)
+  - [2026-09-25] How Much Downside Is Left In Accenture Stock? (Trefis)
+  - [2026-09-25] Litecoin, Cardano, Stellar, and Chainlink All Outperformed Bitcoin This Week. Which Rally Has the Strongest Support? (24/7 Wall St.)
 
 ### GE
 - 名稱／產業：GE Aerospace | Industrials / Aerospace & Defense
-- 收盤：319.78（2026-09-24）｜報酬% 1d=-0.01 5d=2.2 21d=-6.45 63d=-12.49
-- 技術：RSI=39.6302 SMA20/50/200=326.929/345.9332/322.4622 訊號=golden_cross_zone, short_below_mid, below_sma200, macd_bullish
-- 相對 52W：高 -17.76% / 低 19.07%｜量能比=0.88
-- 估值：PE=37.754425 FPE=35.192986 PEG=4.07 PB=18.809483 市值=331791728640.0
+- 收盤：327.09（2026-09-25）｜報酬% 1d=2.29 5d=4.08 21d=-7.7 63d=-11.25
+- 技術：RSI=47.3275 SMA20/50/200=324.3885/344.7378/322.8491 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -15.88% / 低 21.79%｜量能比=1.01
+- 估值：PE=38.617474 FPE=35.99748 PEG=4.07 PB=19.239456 市值=339376308224.0
 - 成長／獲利：營收成長=0.211 EPS成長=0.194 毛利=0.31051 ROE=0.48231998
 - 分析師：評等=buy 目標均價=400.0476 意見數=21.0
 - 近期新聞：
+  - [2026-09-25] GE Aerospace Stock Gains as $225 Million Funds Physical AI (GuruFocus.com)
+  - [2026-09-25] PPA Is a One-Ticker Bet on Rising Defense Spending. Nearly 30% of Holdings Are in Just Four Stocks (24/7 Wall St.)
   - [2026-09-24] Is GE Aerospace's Lead Already In Its Stock Price? (Trefis)
   - [2026-09-24] GE Aerospace is Spending $11.75 Billion to Fix a Supply-Chain Bottleneck. Will it Pay Off? (Insider Monkey)
   - [2026-09-24] GE Aerospace Faces Margin Pressure From Rising Costs: Can It Recover? (Zacks)
-  - [2026-09-24] Is It Worth Investing in GE (GE) Based on Wall Street's Bullish Views? (Zacks)
-  - [2026-09-24] The S&P 500 has never been this concentrated in just 2 stocks (Yahoo Finance)
 
 ### CAT
 - 名稱／產業：Caterpillar, Inc. | Industrials / Farm & Heavy Construction Machinery
-- 收盤：805.25（2026-09-24）｜報酬% 1d=-0.83 5d=2.88 21d=-0.71 63d=-18.88
-- 技術：RSI=46.7247 SMA20/50/200=803.7685/832.3721/785.5265 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
-- 相對 52W：高 -24.85% / 低 76.79%｜量能比=0.89
-- 估值：PE=34.679157 FPE=24.87079 PEG=1.41 PB=19.084919 市值=370153193472.0
+- 收盤：821.58（2026-09-25）｜報酬% 1d=2.03 5d=1.56 21d=-0.04 63d=-17.48
+- 技術：RSI=52.2562 SMA20/50/200=803.3015/829.2008/787.7126 訊號=golden_cross_zone, short_below_mid, above_sma200, macd_bullish
+- 相對 52W：高 -23.32% / 低 79.28%｜量能比=0.8
+- 估值：PE=35.428204 FPE=25.375156 PEG=1.41 PB=19.47195 市值=377659686912.0
 - 成長／獲利：營收成長=0.24 EPS成長=0.682 毛利=0.29713 ROE=0.56972003
 - 分析師：評等=buy 目標均價=975.60614 意見數=26.0
 - 近期新聞：
-  - [2026-09-24] Why Oracle’s Data Center Issue Is a Problem for GE Vernova (Barrons.com)
-  - [2026-09-24] Is Caterpillar the Best Industrials Stock to Buy Right Now? (Motley Fool)
-  - [2026-09-24] What Would You Have Needed To Notice In Caterpillar Stock? (Trefis)
-  - [2026-09-24] Caterpillar vs. Honeywell International: Which Industrials Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] UBS sees rising reliance on AI capex as a key growth risk (Investing.com)
+  - [2026-09-25] Caterpillar Stock Gains as Remote Autonomy Leaves the Cab (GuruFocus.com)
+  - [2026-09-25] Can Share Buybacks Continue to Prop Up Toro Stock? (Trefis)
+  - [2026-09-25] Atlas Energy Solutions Stock Surges on Power Deal With ‘Leading Frontier AI Lab’ (Barrons.com)
+  - [2026-09-25] Atlas Energy stock surges on AI data center power deals (Investing.com)
+  - [2026-09-25] Are Industrial Products Stocks Lagging  GormanRupp (GRC) This Year? (Zacks)
 
 ### QCOM
 - 名稱／產業：QUALCOMM Incorporated | Technology / Semiconductors
-- 收盤：194.26（2026-09-24）｜報酬% 1d=-1.51 5d=2.94 21d=21.65 63d=-4.68
-- 技術：RSI=63.5306 SMA20/50/200=179.0682/168.994/167.4994 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
-- 相對 52W：高 -24.58% / 低 60.7%｜量能比=0.63
-- 估值：PE=22.175798 FPE=19.037613 PEG=0.88 PB=7.4238544 市值=207481421824.0
+- 收盤：201.97（2026-09-25）｜報酬% 1d=3.97 5d=13.65 21d=24.03 63d=7.22
+- 技術：RSI=67.9601 SMA20/50/200=180.9723/169.6396/167.6462 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bullish
+- 相對 52W：高 -21.58% / 低 67.08%｜量能比=1.22
+- 估值：PE=23.108696 FPE=19.7932 PEG=0.86 PB=7.7185006 市值=215716184064.0
 - 成長／獲利：營收成長=-0.04 EPS成長=-0.23 毛利=0.54226 ROE=0.33754003
 - 分析師：評等=hold 目標均價=194.13333 意見數=30.0
 - 近期新聞：
-  - [2026-09-24] Meta's new AI device changes everything (Yahoo Finance Video)
-  - [2026-09-24] Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal. (Investor's Business Daily)
-  - [2026-09-24] Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway. (Barrons.com)
-  - [2026-09-24] Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market (Barrons.com)
-  - [2026-09-24] Dell Slips 2.34% as $999 Googlebook Tests Premium AI PCs (GuruFocus.com)
+  - [2026-09-25] Qualcomm's CMO reveals the secret behind Snapdragon's rise (Yahoo Finance Video)
+  - [2026-09-25] These are stocks getting lifted up by Meta's Muse (Yahoo Finance Video)
+  - [2026-09-25] How Much Track Is Left For MRVL Stock? (Trefis)
+  - [2026-09-25] Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders. (Investor's Business Daily)
+  - [2026-09-25] US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint (MT Newswires)
 
 ### INTU
 - 名稱／產業：Intuit Inc. | Technology / Software - Application
-- 收盤：277.13（2026-09-24）｜報酬% 1d=-3.37 5d=-12.89 21d=-25.08 63d=6.15
-- 技術：RSI=30.2448 SMA20/50/200=325.712/324.7768/405.0232 訊號=death_cross_zone, short_above_mid, below_sma200, macd_bearish
-- 相對 52W：高 -60.19% / 低 10.09%｜量能比=1.13
-- 估值：PE=16.836575 FPE=10.235483 PEG=0.91 PB=3.916257 市值=74059112448.0
+- 收盤：275.79（2026-09-25）｜報酬% 1d=-0.48 5d=-9.04 21d=-20.26 63d=3.47
+- 技術：RSI=29.5787 SMA20/50/200=319.425/324.6498/401.2764 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
+- 相對 52W：高 -60.38% / 低 9.56%｜量能比=0.93
+- 估值：PE=16.755165 FPE=10.185991 PEG=0.88 PB=3.8973207 市值=73701015552.0
 - 成長／獲利：營收成長=0.137 EPS成長=-0.014 毛利=0.80982 ROE=0.23596
 - 分析師：評等=buy 目標均價=405.6 意見數=31.0
 - 近期新聞：
@@ -721,48 +721,48 @@
 
 ### VZ
 - 名稱／產業：Verizon Communications Inc. | Communication Services / Telecom Services
-- 收盤：47.32（2026-09-24）｜報酬% 1d=1.72 5d=-2.09 21d=-5.83 63d=4.46
-- 技術：RSI=41.1006 SMA20/50/200=49.421/48.0248/45.3294 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -8.42% / 低 29.46%｜量能比=0.97
-- 估值：PE=12.322917 FPE=8.966604 PEG=0.83 PB=1.891892 市值=196603969536.0
+- 收盤：47.08（2026-09-25）｜報酬% 1d=-0.51 5d=-2.1 21d=-6.2 63d=2.88
+- 技術：RSI=39.8344 SMA20/50/200=49.3035/48.0888/45.3682 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -8.88% / 低 28.8%｜量能比=0.63
+- 估值：PE=12.260417 FPE=8.919606 PEG=0.84 PB=1.8822967 市值=195606822912.0
 - 成長／獲利：營收成長=-0.007 EPS成長=-0.22 毛利=0.59453 ROE=0.15842
-- 分析師：評等=buy 目標均價=51.58182 意見數=22.0
+- 分析師：評等=buy 目標均價=51.55652 意見數=23.0
 - 近期新聞：
-  - [2026-09-24] AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026? (Motley Fool)
-  - [2026-09-24] ‘They Are Gouging the Remaining Customers’: Clark to Internet Users on Autopay (24/7 Wall St.)
-  - [2026-09-24] An 8-Day Losing Streak Has Charter Communications Stock Down 20% (Trefis)
-  - [2026-09-24] Bond Market Collapse Sends Yields to Decades-Old Highs. Dividend Stocks Are Most at Risk. (24/7 Wall St.)
-  - [2026-09-24] Is Comcast Broken, Or Just Paying To Defend Its Broadband? (Trefis)
+  - [2026-09-25] The Cheapest Stocks in the S&P 500: Are They a Bargain or a Trap? (Barrons.com)
+  - [2026-09-25] Comcast Broadband Outlook Weakens as Competition Intensifies, KeyBanc Says (MT Newswires)
+  - [2026-09-25] Can Verizon's Latest Motorola Device Offers Drive Customer Growth? (Zacks)
+  - [2026-09-25] Should You Bet on TMUS After Dividend Hike Amid Macro Uncertainty? (Zacks)
+  - [2026-09-25] Should CCOI Be in Your Portfolio After Plummeting 80.7% in a Year? (Zacks)
 
 ### CMCSA
 - 名稱／產業：Comcast Corporation | Communication Services / Telecom Services
-- 收盤：22.13（2026-09-24）｜報酬% 1d=-1.86 5d=-3.4 21d=-18.34 63d=-1.14
-- 技術：RSI=28.5951 SMA20/50/200=24.817/24.9038/26.3945 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
-- 相對 52W：高 -30.94% / 低 3.99%｜量能比=1.11
-- 估值：PE=7.092949 FPE=6.1774573 PEG=142.98 PB=0.87432337 市值=78531330048.0
+- 收盤：21.91（2026-09-25）｜報酬% 1d=-0.99 5d=-3.65 21d=-19.45 63d=-4.15
+- 技術：RSI=27.4795 SMA20/50/200=24.592/24.86/26.3836 訊號=death_cross_zone, short_below_mid, below_sma200, rsi_oversold, macd_bearish
+- 相對 52W：高 -31.63% / 低 2.96%｜量能比=1.28
+- 估值：PE=7.022436 FPE=6.127163 PEG=142.98 PB=0.8656315 市值=77750632448.0
 - 成長／獲利：營收成長=-0.012 EPS成長=-0.668 毛利=0.6939 ROE=0.114879996
-- 分析師：評等=hold 目標均價=29.64955 意見數=22.0
+- 分析師：評等=hold 目標均價=29.05609 意見數=23.0
 - 近期新聞：
-  - [2026-09-24] ‘They Are Gouging the Remaining Customers’: Clark to Internet Users on Autopay (24/7 Wall St.)
-  - [2026-09-24] An 8-Day Losing Streak Has Charter Communications Stock Down 20% (Trefis)
-  - [2026-09-24] Is Comcast Broken, Or Just Paying To Defend Its Broadband? (Trefis)
-  - [2026-09-24] What Would A Real Market Crash Do To Netflix Stock After This Fall? (Trefis)
-  - [2026-09-24] Bond Yields Are Flashing Red for Stocks. What Happens Next. (Barrons.com)
+  - [2026-09-25] Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today’s Market (Barrons.com)
+  - [2026-09-25] Comcast Stock Hits Its Lowest Level in More Than a Decade. Why the Trouble Runs Deep. (Barrons.com)
+  - [2026-09-25] KeyBanc Revamps Comcast Stock Price Target for Rest of 2026 (GuruFocus.com)
+  - [2026-09-25] The Cheapest Stocks in the S&P 500: Are They a Bargain or a Trap? (Barrons.com)
+  - [2026-09-25] Tech, Media & Telecom Roundup: Market Talk (The Wall Street Journal)
 
 ### DIS
 - 名稱／產業：Walt Disney Company (The) | Communication Services / Entertainment
-- 收盤：105.56（2026-09-24）｜報酬% 1d=2.03 5d=-1.34 21d=-4.57 63d=5.19
-- 技術：RSI=50.9303 SMA20/50/200=106.1825/103.2248/103.4383 訊號=death_cross_zone, short_above_mid, above_sma200, macd_bearish
-- 相對 52W：高 -8.54% / 低 15.38%｜量能比=0.96
-- 估值：PE=21.764948 FPE=14.114129 PEG=3.37 PB=1.6596962 市值=182269067264.0
+- 收盤：106.15（2026-09-25）｜報酬% 1d=0.56 5d=3.39 21d=-3.17 63d=8.27
+- 技術：RSI=52.7959 SMA20/50/200=105.8585/103.487/103.4387 訊號=golden_cross_zone, short_above_mid, above_sma200, macd_bearish
+- 相對 52W：高 -8.03% / 低 16.02%｜量能比=0.89
+- 估值：PE=21.886599 FPE=14.195105 PEG=3.44 PB=1.6689726 市值=183287808000.0
 - 成長／獲利：營收成長=0.068 EPS成長=-0.483 毛利=0.37595 ROE=0.0801
 - 分析師：評等=strong_buy 目標均價=126.73906 意見數=32.0
 - 近期新聞：
+  - [2026-09-25] 3 Consumer Stocks That Concern Us (StockStory)
+  - [2026-09-24] Walt Disney (DIS) Gains As Market Dips: What You Should Know (Zacks)
   - [2026-09-24] Streamers are getting expensive–but parents will keep paying (Yahoo Finance Video)
   - [2026-09-24] Disney Just Raised Prices Across Multiple Streaming Tiers. Here’s How It Compares to Netflix and Paramount. (Motley Fool)
   - [2026-09-24] Disney World's peak Magic Kingdom ticket jumps $10 to $219 for 2027 (TheStreet)
-  - [2026-09-24] Is Comcast Broken, Or Just Paying To Defend Its Broadband? (Trefis)
-  - [2026-09-24] Disney World ends a free perk that helps visitors save money (TheStreet)
 
 ## 完整 JSON
 （若你需要原始欄位，請一併參考同目錄的 `claude_pack.json`。）
